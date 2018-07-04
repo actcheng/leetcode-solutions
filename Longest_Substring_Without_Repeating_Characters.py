@@ -1,4 +1,6 @@
 # Problem #3
+# Date completed: 2018/07/04
+
 class Solution:
     def lengthOfLongestSubstring(self, s):
         """
