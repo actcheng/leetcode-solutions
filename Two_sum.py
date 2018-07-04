@@ -1,4 +1,5 @@
 # Problem #1
+# Date completed: 2018/07/04
 class Solution:
     def twoSum(self, nums, target):
         """
