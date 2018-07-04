@@ -1,2 +1,2 @@
 # Hello-to-Leetcode
-First try for Leetcode
+For storing my codes which has been accepted in Leetcode
