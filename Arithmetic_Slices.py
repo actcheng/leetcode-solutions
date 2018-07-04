@@ -1,3 +1,5 @@
+# Problem #413
+# Date completed: 2018/07/04
 class Solution:
     def numberOfArithmeticSlices(self, A):
         """
