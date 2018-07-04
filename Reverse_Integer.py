@@ -1,7 +1,7 @@
 # Problem #7
 # Date completed: 2018/07/04
 
-# Solution 1:
+# Solution 1 (52 ms)
 class Solution:
     def reverse(self, x):
         """
@@ -24,7 +24,37 @@ class Solution:
             ans=0
         return ans
 
-# Solution 2
+# Solution 2 (60ms)
+class Solution:
+    def reverse(self, x):
+        """
+        :type x: int
+        :rtype: int
+        """
+        
+        s = -1+2*(x>0)
+        y = x*s
+        ylist = []
+        n = 1
+
+        while y>0:
+            a = y%(10**n)
+            ylist.append(int(a/(10**(n-1))))
+            n += 1
+            y -= a
+            
+        ans = 0
+        l = len(ylist)
+        for i in range(l):
+            ans += ylist[i]*10**(l-i-1)
+        ans=ans*s
+
+        if (ans < (2**31)-1) and (ans>-(2**31)):
+            return ans
+        else:
+            return 0
+ 
+# Solution 3(52 ms)
 class Solution:
     def reverse(self, x):
         """
