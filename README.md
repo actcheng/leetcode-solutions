@@ -1,3 +1,3 @@
 # Hello-to-Leetcode
-First try for Leetcode
-Hello guys, I am Anna.
+Hi, I am Anna.
+This repository is for storing my codes which has been accepted in Leetcode
