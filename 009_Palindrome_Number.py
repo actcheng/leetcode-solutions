@@ -1,3 +1,6 @@
+# Problem #9
+# Date completed: 2018/07/14
+
 # Solution 1 (296 ms)
 class Solution:
     def isPalindrome(self, x):
