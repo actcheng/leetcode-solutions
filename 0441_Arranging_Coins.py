@@ -1,6 +1,7 @@
 # Problem 441
 # Date completed: 2018/07/15
 
+# 52 ms
 class Solution(object):
     def arrangeCoins(self, n):
         """
