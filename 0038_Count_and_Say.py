@@ -1,3 +1,6 @@
+# Problem 38
+# Date completed: 2018/12/26
+
 # 52 ms
 class Solution:
     def countAndSay(self, n):
