@@ -11,4 +11,16 @@ class Solution:
             return [diff[-1][0], diff[0][1]]
         else:
             return [diff[0][0], diff[-1][1]]
+        
+# 236 ms
+class Solution:
+    def findErrorNums(self, nums: List[int]) -> List[int]:
+        n = len(nums)
+        arr = [0]*n
+        for num in nums:
+            arr[num-1] += 1
+        dup = [i+1 for i in range(n) if arr[i] > 1]
+        missing = [i+1 for i in range(n) if arr[i] == 0]
+        
+        return [dup[0], missing[0]]
             
