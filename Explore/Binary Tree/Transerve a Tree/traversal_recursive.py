@@ -36,3 +36,17 @@ class Solution:
             arr.append(node.val)
         leaves(root)
         return arr
+    
+# 4. Level-order: [[level 1], [level 2], [level 3]]
+class Solution:
+    def levelOrder(self, root: TreeNode) -> List[List[int]]:
+        arr = []
+        queue = [[0, root]]        
+        while len(queue) > 0:
+            level, root = queue.pop(0)  
+            if not root: continue
+            if root.left: queue.append([level+1, root.left])
+            if root.right: queue.append([level+1, root.right])
+            if len(arr) < level+1: arr.append([])
+            arr[level].append(root.val)
+        return arr
