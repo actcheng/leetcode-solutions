@@ -1,5 +1,6 @@
-# Date: 2019/09/04
 
+# Date: 2019/09/04
+# Problem 144
 # 1. Preorder: Root -> Left -> Right
 class Solution:
     def preorderTraversal(self, root: TreeNode) -> List[int]:
@@ -12,7 +13,7 @@ class Solution:
         leaves(root)
         return arr
         
-     
+# Problem 94     
 # 2. In-order: Left -> Root -> Right
 class Solution:
     def inorderTraversal(self, root: TreeNode) -> List[int]:
@@ -24,7 +25,8 @@ class Solution:
             if node.right: leaves(node.right)
         leaves(root)
         return arr
- 
+
+# Problem 145    
 # 3. Post-order: Left -> Right -> Root
 class Solution:
     def postorderTraversal(self, root: TreeNode) -> List[int]:
@@ -36,7 +38,8 @@ class Solution:
             arr.append(node.val)
         leaves(root)
         return arr
-    
+
+# Problem 102
 # 4. Level-order: [[level 1], [level 2], [level 3]]
 class Solution:
     def levelOrder(self, root: TreeNode) -> List[List[int]]:
