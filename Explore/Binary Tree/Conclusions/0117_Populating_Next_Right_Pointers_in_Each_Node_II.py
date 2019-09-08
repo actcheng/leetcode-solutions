@@ -32,3 +32,22 @@ class Solution:
                 nextLevLeft = None
                 
         return root
+
+ # Fascinating code for digest:
+class Solution:
+    def connect(self, root: 'Node') -> 'Node':
+        dummy = current = Node(0)
+        ans = root
+        while root:
+            current.next = root.left
+            if current.next:
+                current = current.next
+            current.next = root.right
+            if current.next:
+                current = current.next
+            root = root.next
+            if not root:
+                current = dummy
+                root = dummy.next
+                
+        return ans
