@@ -1,5 +1,5 @@
 # Problem 387 
-# Date completed: 2019/09/10
+# Date completed: 2019/09/11
 
 # 232 ms
 
