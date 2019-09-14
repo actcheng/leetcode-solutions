@@ -6,7 +6,7 @@ class Solution:
     def preorder(self, root: 'Node') -> List[int]:
         self.arr = []
         
-        def transverse(root):
+        def traverse(root):
             if not root: return
             self.arr.append(root.val)
             for c in root.children:
