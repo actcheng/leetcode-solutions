@@ -1,5 +1,5 @@
 # Problem 884 
-# Date completed: 2019/09/13
+# Date completed: 2019/09/14
 
 # 36 ms
 class Solution:
