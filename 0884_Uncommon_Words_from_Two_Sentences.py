@@ -5,7 +5,5 @@
 class Solution:
     def uncommonFromSentences(self, A: str, B: str) -> List[str]:
         listA, listB  = A.split(), B.split()
-        setAB = set([x for x in set(listA) if listA.count(x) == 1 ] + [x for x in set(listB) if listB.count(x) == 1])
-        # print(listAB)
-        
+        setAB = set(listA)^set(listB)        
         return [x for x in setAB if (listA.count(x)+listB.count(x)) == 1]
