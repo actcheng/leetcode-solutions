@@ -1,5 +1,5 @@
 # Problem 706 
-# Date completed: 2019/09/20
+# Date completed: 2019/09/21
 
 # 232 ms
 class MyHashMap:
