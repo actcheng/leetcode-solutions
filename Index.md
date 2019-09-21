@@ -62,13 +62,17 @@
 
 [129. Sum Root to Leaf Numbers](0129_Sum_Root_to_Leaf_Numbers.py) 
 
+[136. Single Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0136_Single_Number.py) 
+
 [152. Maximum Product Subarray](0152_Maximum_Product_Subarray.py) 
 
 [172. Factorial Trailing Zeroes](0172_Factorial_Trailing_Zeroes.py) 
 
 [173. Binary Search Tree Iterator](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0173_Binary_Search_Tree_Iterator.py) 
 
-[202. Happy Number](0202_Happy_Number.py) 
+[202. Happy Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0202_Happy_Number.py) 
+
+[205. Isomorphic Strings](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0205_Isomorphic_Strings.py) 
 
 [208. Implement Trie (Prefix Tree)](Explore/Trie/Basic%20Operations/0208_Implement_Trie_(Prefix_Tree).py) 
 
@@ -77,6 +81,9 @@
 [215. Kth Largest Element in an Array](0215_Kth_Largest_Element_in_an_Array.py) 
 
 [217. Contains Duplicate](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0217_Contains_Duplicate.py) 
+
+[219. Contains Duplicate II](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0219_Contains_Duplicate_II.py
+) 
 
 [235. Lowest Common Ancestor of a Binary Search Tree](Explore/Binary%20Search%20Tree/Conclusion/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py) 
 
@@ -96,7 +103,11 @@
 
 [344. Reverse String](0344_Reverse_String.py) 
 
-[387. First Unique Character in a String](0387_First_Unique_Character_in_a_String.py) 
+[349. Intersection of Two Arrays](%20Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0349_Intersection_of_Two_Arrays.py) 
+
+[350. Intersection of Two Arrays II](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0350_Intersection_of_Two_Arrays_II.py) 
+
+[387. First Unique Character in a String](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0387_First_Unique_Character_in_a_String.py) 
 
 [392. Is Subsequence](0392_Is_Subsequence.py) 
 
@@ -143,6 +154,8 @@
 [590. N-ary Tree Postorder Traversal](Explore/N-ary%20Tree/Traversal/0590_N-ary_Tree_Postorder_Traversal.py) 
 
 [598. Range Addition II](0598_Range_Addition_II.py) 
+
+[599. Minimum Index Sum of Two Lists](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0599_Minimum_Index_Sum_of_Two_Lists.py) 
 
 [637. Average of Levels in Binary Tree](Explore/Binary%20Tree/Other%20exercises/0637_Average_of_Levels_in_Binary_Tree.py) 
 
