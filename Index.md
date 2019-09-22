@@ -28,6 +28,8 @@
 
 [38. Count and Say](0038_Count_and_Say.py) 
 
+[49. Group Anagrams](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0049_Group_Anagrams.py) 
+
 [58. Length of Last Word](0058_Length_of_Last_Word.py) 
 
 [88. Merge Sorted Array](0088_Merge_Sorted_Array.py) 
@@ -180,3 +182,5 @@
 [706. Design HashMap](Explore/Hash%20Table/Design%20a%20Hash%20Table/0706_Design_HashMap.py) 
 
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
+
+[1200. Minimum Absolute Difference](1200_Minimum_Absolute_Difference.py) 
