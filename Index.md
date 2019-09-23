@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 114 / 1195
+### Problems solved: 124 / 1195
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -97,6 +97,8 @@
 
 [268. Missing Number](0268_Missing_Number.py) 
 
+[290. Word Pattern](0290_Word_Pattern.py) 
+
 [297. Serialize and Deserialize Binary Tree](Explore/Binary%20Tree/Conclusions/0297_Serialize_and_Deserialize_Binary_Tree.py) 
 
 [338. Counting Bits](0338_Counting_Bits.py) 
@@ -154,6 +156,8 @@
 [589. N-ary Tree Preorder Traversal](Explore/N-ary%20Tree/Traversal/0589_N-ary_Tree_Preorder_Traversal.py) 
 
 [590. N-ary Tree Postorder Traversal](Explore/N-ary%20Tree/Traversal/0590_N-ary_Tree_Postorder_Traversal.py) 
+
+[593. Valid Square](0593_Valid_Square.py) 
 
 [598. Range Addition II](0598_Range_Addition_II.py) 
 
