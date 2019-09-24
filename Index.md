@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 124 / 1195
+### Problems solved: 128 / 1195
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -26,15 +26,21 @@
 
 [27. Remove Element](0027_Remove_Element.py) 
 
+[36. Valid Sudoku](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0036_Valid_Sudoku.py)
+
 [38. Count and Say](0038_Count_and_Say.py) 
 
 [49. Group Anagrams](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0049_Group_Anagrams.py) 
+
+[56. Merge Intervals](0056_Merge_Intervals.py) 
 
 [58. Length of Last Word](0058_Length_of_Last_Word.py) 
 
 [88. Merge Sorted Array](0088_Merge_Sorted_Array.py) 
 
 [98. Validate Binary Search Tree](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0098_Validate_Binary_Search_Tree.py) 
+
+[100. Same Tree](0100_Same_Tree.py)
 
 [101. Symmetric Tree](Explore/Binary%20Tree/Solve%20Problems%20Recursively/0101_Symmetric_Tree.py) 
 
@@ -176,6 +182,8 @@
 [677. Map Sum Pairs](Explore/Trie/Practical%20Applications%20I/0677_Map_Sum_Pairs.py) 
 
 [682. Baseball Game](0682_Baseball_Game.py) 
+
+[690. Employee Importance](0690_Employee_Importance.py) 
 
 [700. Search in a Binary Search Tree](Explore/Binary%20Search%20Tree/Basic%20Operations%20in%20BST/0700_Search_in_a_Binary_Search_Tree.py) 
 
