@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 128 / 1195
+### Problems solved: 131 / 1195
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -9,6 +9,8 @@
 [3. Longest Substring Without Repeating Characters](0003_Longest_Substring_Without_Repeating_Characters.py)
 
 [4. Median of Two Sorted Arrays](0004_Median_of_Two_Sorted_Arrays.py)
+
+[6. ZigZag Conversion](0006_ZigZag_Conversion.py) 
 
 [7. Reverse Integer]( 0007_Reverse_Integer.py) 
 
@@ -43,6 +45,8 @@
 [100. Same Tree](0100_Same_Tree.py)
 
 [101. Symmetric Tree](Explore/Binary%20Tree/Solve%20Problems%20Recursively/0101_Symmetric_Tree.py) 
+
+[103. Binary Tree Zigzag Level Order Traversal](%20%20Explore/Binary%20Tree/Other%20exercises/0103_Binary_Tree_Zigzag_Level_Order_Traversal.py) 
 
 [104. Maximum Depth of Binary Tree](Explore/Binary%20Tree/Solve%20Problems%20Recursively/0104_Maximum_Depth_of_Binary_Tree.py) 
 
@@ -170,6 +174,8 @@
 [599. Minimum Index Sum of Two Lists](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0599_Minimum_Index_Sum_of_Two_Lists.py) 
 
 [637. Average of Levels in Binary Tree](Explore/Binary%20Tree/Other%20exercises/0637_Average_of_Levels_in_Binary_Tree.py) 
+
+[643. Maximum Average Subarray I](0643_Maximum_Average_Subarray_I.py) 
 
 [645. Set Mismatch](0645_Set_Mismatch.py) 
 
