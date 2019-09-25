@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 131 / 1204
+### Problems solved: 133 / 1204
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -14,9 +14,13 @@
 
 [7. Reverse Integer]( 0007_Reverse_Integer.py) 
 
+[8. String to Integer (atoi)](0008_String_to_Integer_(atoi).py) 
+
 [9. Palindrome Number](0009_Palindrome_Number.py) 
 
 [13. Roman to Integer](0013_Roman_to_Integer.py) 
+
+[14. Longest Common Prefix](0014_Longest_Common_Prefix.py) 
 
 [17. Letter Combinations of a Phone Number](0017_Letter_Combinations_of_a_Phone_Number.py) 
 
