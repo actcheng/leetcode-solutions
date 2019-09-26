@@ -32,6 +32,8 @@
 
 [27. Remove Element](0027_Remove_Element.py) 
 
+[28. Implement strStr()](0028_Implement_strStr().py) 
+
 [36. Valid Sudoku](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0036_Valid_Sudoku.py)
 
 [38. Count and Say](0038_Count_and_Say.py) 
@@ -41,6 +43,8 @@
 [56. Merge Intervals](0056_Merge_Intervals.py) 
 
 [58. Length of Last Word](0058_Length_of_Last_Word.py) 
+
+[66. Plus One](0066_Plus_One.py) 
 
 [88. Merge Sorted Array](0088_Merge_Sorted_Array.py) 
 
@@ -145,6 +149,8 @@
 
 [450. Delete Node in a BST](Explore/Binary%20Search%20Tree/Basic%20Operations%20in%20BST/0450_Delete_Node_in_a_BST.py) 
 
+[459. Repeated Substring Pattern](0459_Repeated_Substring_Pattern.py) 
+
 [463. Island Perimeter](0463_Island_Perimeter.py) 
 
 [485. Max Consecutive Ones](0485_Max_Consecutive_Ones.py) 
@@ -185,6 +191,8 @@
 
 [648. Replace Words](%20Explore/Trie/Practical%20Applications%20I/0648_Replace_Words.py) 
 
+[652. Find Duplicate Subtrees](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0652_Find_Duplicate_Subtrees.py) 
+
 [661. Image Smoother](0661_Image_Smoother.py) 
 
 [665. Non-decreasing Array](0665_Non-decreasing_Array.py) 
@@ -202,6 +210,8 @@
 [705. Design HashSet](Explore/Hash%20Table/Design%20a%20Hash%20Table/0705_Design_HashSet.py) 
 
 [706. Design HashMap](Explore/Hash%20Table/Design%20a%20Hash%20Table/0706_Design_HashMap.py) 
+
+[771. Jewels and Stones](Explore/Hash%20Table/Conclusions/0771_Jewels_and_Stones.py) 
 
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
 
