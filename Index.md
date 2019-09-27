@@ -1,12 +1,12 @@
 # Index
 
-### Problems solved: 138 / 1205
+### Problems solved: 143 / 1205
 
 [1. Two sum](0001_Two_sum.py) 
 
 [2. Add Two Numbers](0002_Add_Two_Numbers.py)
 
-[3. Longest Substring Without Repeating Characters](0003_Longest_Substring_Without_Repeating_Characters.py)
+[3. Longest Substring Without Repeating Characters](Explore/Hash%20Table/Conclusions/0003_Longest_Substring_Without_Repeating_Characters.py) 
 
 [4. Median of Two Sorted Arrays](0004_Median_of_Two_Sorted_Arrays.py)
 
@@ -125,9 +125,13 @@
 
 [344. Reverse String](0344_Reverse_String.py) 
 
+[347. Top K Frequent Elements](%20Explore/Hash%20Table/Conclusions/0347_Top_K_Frequent_Elements.py) 
+
 [349. Intersection of Two Arrays](%20Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0349_Intersection_of_Two_Arrays.py) 
 
 [350. Intersection of Two Arrays II](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0350_Intersection_of_Two_Arrays_II.py) 
+
+[380. Insert Delete GetRandom O(1)](Explore/Hash%20Table/Conclusions/0380_Insert_Delete_GetRandom_O(1).py) 
 
 [387. First Unique Character in a String](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0387_First_Unique_Character_in_a_String.py) 
 
@@ -148,6 +152,8 @@
 [441. Arranging Coins](0441_Arranging_Coins.py) 
 
 [450. Delete Node in a BST](Explore/Binary%20Search%20Tree/Basic%20Operations%20in%20BST/0450_Delete_Node_in_a_BST.py) 
+
+[454. 4Sum II](Explore/Hash%20Table/Conclusions/0454_4Sum_II.py) 
 
 [459. Repeated Substring Pattern](0459_Repeated_Substring_Pattern.py) 
 
@@ -210,6 +216,10 @@
 [705. Design HashSet](Explore/Hash%20Table/Design%20a%20Hash%20Table/0705_Design_HashSet.py) 
 
 [706. Design HashMap](Explore/Hash%20Table/Design%20a%20Hash%20Table/0706_Design_HashMap.py) 
+
+[724. Find Pivot Index](Explore/Array%20and%20String/Introduction%20to%20Array/0724_Find_Pivot_Index.py) 
+
+[747. Largest Number At Least Twice of Others](Explore/Array%20and%20String/Introduction%20to%20Array/0747_Largest_Number_At_Least_Twice_of_Others.py) 
 
 [771. Jewels and Stones](Explore/Hash%20Table/Conclusions/0771_Jewels_and_Stones.py) 
 
