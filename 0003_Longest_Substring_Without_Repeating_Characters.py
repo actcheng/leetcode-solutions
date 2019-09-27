@@ -18,3 +18,14 @@ class Solution:
             
         return maxlen
     
+# 2019/09/27
+# 168 ms
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        l, i = 0, 0
+        while i + l  < len(s):
+            if len(set(s[i:i+l+1])) == l+1:
+                l += 1
+            else:                
+                i += 1
+        return l
