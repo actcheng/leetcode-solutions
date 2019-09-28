@@ -40,11 +40,15 @@
 
 [49. Group Anagrams](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0049_Group_Anagrams.py) 
 
+[54. Spiral Matrix](Explore/Array%20and%20String/Introduction%20to%202D%20Array/0054_Spiral_Matrix.py) 
+
 [56. Merge Intervals](0056_Merge_Intervals.py) 
 
 [58. Length of Last Word](0058_Length_of_Last_Word.py) 
 
 [66. Plus One](0066_Plus_One.py) 
+
+[67. Add Binary](Explore/Array%20and%20String/Introduction%20to%20String/0067_Add_Binary.py) 
 
 [88. Merge Sorted Array](0088_Merge_Sorted_Array.py) 
 
@@ -74,7 +78,7 @@
 
 [117. Populating Next Right Pointers in Each Node II](Explore/Binary%20Tree/Conclusions/0117_Populating_Next_Right_Pointers_in_Each_Node_II.py) 
 
-[118. Pascals Triangle](0118_Pascals_Triangle.py) 
+[118. Pascal's Triangle](Explore/Array%20and%20String/Introduction%20to%202D%20Array/118_Pascal's_Triangle.py) 
 
 [121. Best Time to Buy and Sell Stock](0121_Best_Time_to_Buy_and_Sell_Stock.py) 
 
@@ -86,6 +90,8 @@
 
 [152. Maximum Product Subarray](0152_Maximum_Product_Subarray.py) 
 
+[167. Two Sum II - Input array is sorted](Explore/Array%20and%20String/Two-Pointer%20Technique/0167_Two_Sum_II_-_Input_array_is_sorted.py) 
+
 [172. Factorial Trailing Zeroes](0172_Factorial_Trailing_Zeroes.py) 
 
 [173. Binary Search Tree Iterator](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0173_Binary_Search_Tree_Iterator.py) 
@@ -95,6 +101,8 @@
 [205. Isomorphic Strings](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0205_Isomorphic_Strings.py) 
 
 [208. Implement Trie (Prefix Tree)](Explore/Trie/Basic%20Operations/0208_Implement_Trie_(Prefix_Tree).py) 
+
+[209. Minimum Size Subarray Sum](Explore/Array%20and%20String/Two-Pointer%20Technique/0209_Minimum_Size_Subarray_Sum.py) 
 
 [211. Add and Search Word - Data structure design](Explore/Trie/Practical%20Applications%20I/0211_Add_and_Search_Word_-_Data_structure_design.py) 
 
@@ -174,6 +182,8 @@
 [557. Reverse Words in a String III](0557_Reverse_Words_in_a_String_III.py) 
 
 [559. Maximum Depth of N-ary Tree](Explore/N-ary%20Tree/Recursion/0559_Maximum_Depth_of_N-ary_Tree.py) 
+
+[561. Array Partition I](Explore/Array%20and%20String/Two-Pointer%20Technique/0561_Array_Partition_I.py) 
 
 [563. Binary Tree Tilt](Explore/Binary%20Tree/Other%20exercises/0563_Binary_Tree_Tilt.py) 
 
