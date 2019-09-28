@@ -19,3 +19,16 @@ class Solution:
             l.append(temp)            
             
         return l
+
+# 2019/09/28
+# 36 ms
+class Solution:
+    def generate(self, numRows: int) -> List[List[int]]:
+        if numRows == 0: return []
+        triangle = []
+        for i in range(numRows):
+            if i == 0:
+                triangle.append([1])
+            else:
+                triangle.append([1]+[triangle[i-1][j]+triangle[i-1][j+1] for j in range(i-1) if i >0] + [1])
+        return triangle
