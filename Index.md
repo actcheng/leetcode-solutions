@@ -20,7 +20,7 @@
 
 [13. Roman to Integer](0013_Roman_to_Integer.py) 
 
-[14. Longest Common Prefix](0014_Longest_Common_Prefix.py) 
+[14. Longest Common Prefix](Explore/Array%20and%20String/Introduction%20to%20String/0014_Longest_Common_Prefix.py) 
 
 [17. Letter Combinations of a Phone Number](0017_Letter_Combinations_of_a_Phone_Number.py) 
 
@@ -28,11 +28,11 @@
 
 [21. Merge Two Sorted Lists](0021_Merge_Two_Sorted_Lists.py) 
 
-[26. Remove Duplicates from Sorted Array](0026_Remove_Duplicates_from_Sorted_Array.py) 
+[26. Remove Duplicates from Sorted Array](Explore/Array%20and%20String/Conclusion/0026_Remove_Duplicates_from_Sorted_Array.py) 
 
-[27. Remove Element](0027_Remove_Element.py) 
+[27. Remove Element](Explore/Array%20and%20String/Two-Pointer%20Technique/0027_Remove_Element.py) 
 
-[28. Implement strStr()](0028_Implement_strStr().py) 
+[28. Implement strStr()](Explore/Array%20and%20String/Introduction%20to%20String/0028_Implement_strStr().py) 
 
 [36. Valid Sudoku](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0036_Valid_Sudoku.py)
 
@@ -80,6 +80,8 @@
 
 [118. Pascal's Triangle](Explore/Array%20and%20String/Introduction%20to%202D%20Array/118_Pascal's_Triangle.py) 
 
+[119. Pascal's Triangle II](Explore/Array%20and%20String/Conclusion/0119_Pascal's_Triangle_II.py) 
+
 [121. Best Time to Buy and Sell Stock](0121_Best_Time_to_Buy_and_Sell_Stock.py) 
 
 [122. Best Time to Buy and Sell Stock II](0122_Best_Time_to_Buy_and_Sell_Stock_II.py) 
@@ -88,6 +90,8 @@
 
 [136. Single Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0136_Single_Number.py) 
 
+[151. Reverse Words in a String](Explore/Array%20and%20String/Conclusion/0151_Reverse_Words_in_a_String.py) 
+
 [152. Maximum Product Subarray](0152_Maximum_Product_Subarray.py) 
 
 [167. Two Sum II - Input array is sorted](Explore/Array%20and%20String/Two-Pointer%20Technique/0167_Two_Sum_II_-_Input_array_is_sorted.py) 
@@ -95,6 +99,8 @@
 [172. Factorial Trailing Zeroes](0172_Factorial_Trailing_Zeroes.py) 
 
 [173. Binary Search Tree Iterator](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0173_Binary_Search_Tree_Iterator.py) 
+
+[189. Rotate Array](Explore/Array%20and%20String/Conclusion/0189_Rotate_Array.py) 
 
 [202. Happy Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0202_Happy_Number.py) 
 
@@ -123,6 +129,8 @@
 
 [268. Missing Number](0268_Missing_Number.py) 
 
+[283. Move Zeroes](Explore/Array%20and%20String/Conclusion/0283_Move_Zeroes.py)
+
 [290. Word Pattern](0290_Word_Pattern.py) 
 
 [297. Serialize and Deserialize Binary Tree](Explore/Binary%20Tree/Conclusions/0297_Serialize_and_Deserialize_Binary_Tree.py) 
@@ -131,7 +139,7 @@
 
 [342. Power of Four](0342_Power_of_Four.py) 
 
-[344. Reverse String](0344_Reverse_String.py) 
+[344. Reverse String](Explore/Array%20and%20String/Two-Pointer%20Technique/0344_Reverse_String.py) 
 
 [347. Top K Frequent Elements](%20Explore/Hash%20Table/Conclusions/0347_Top_K_Frequent_Elements.py) 
 
@@ -167,7 +175,7 @@
 
 [463. Island Perimeter](0463_Island_Perimeter.py) 
 
-[485. Max Consecutive Ones](0485_Max_Consecutive_Ones.py) 
+[485. Max Consecutive Ones](Explore/Array%20and%20String/Two-Pointer%20Technique/0485_Max_Consecutive_Ones.py) 
 
 [509. Fibonacci Number](0509_Fibonacci_Number.py) 
 
@@ -179,7 +187,7 @@
 
 [551. Student Attendance Record I](0551_Student_Attendance_Record_I.py) 
 
-[557. Reverse Words in a String III](0557_Reverse_Words_in_a_String_III.py) 
+[557. Reverse Words in a String III](Explore/Array%20and%20String/Conclusion/0557_Reverse_Words_in_a_String_III.py) 
 
 [559. Maximum Depth of N-ary Tree](Explore/N-ary%20Tree/Recursion/0559_Maximum_Depth_of_N-ary_Tree.py) 
 
