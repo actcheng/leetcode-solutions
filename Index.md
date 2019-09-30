@@ -235,6 +235,8 @@
 
 [706. Design HashMap](Explore/Hash%20Table/Design%20a%20Hash%20Table/0706_Design_HashMap.py) 
 
+[707. Design Linked List](Explore/Linked%20List/Singly%20Linked%20List/0707_Design_Linked_List.py) 
+
 [724. Find Pivot Index](Explore/Array%20and%20String/Introduction%20to%20Array/0724_Find_Pivot_Index.py) 
 
 [747. Largest Number At Least Twice of Others](Explore/Array%20and%20String/Introduction%20to%20Array/0747_Largest_Number_At_Least_Twice_of_Others.py) 
