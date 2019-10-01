@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 153 / 1205
+### Problems solved: 160 / 1205
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -37,6 +37,10 @@
 [36. Valid Sudoku](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0036_Valid_Sudoku.py)
 
 [38. Count and Say](0038_Count_and_Say.py) 
+
+[46. Permutations](0046_Permutations.py) 
+
+[47. Permutations II](0047_Permutations_II.py) 
 
 [49. Group Anagrams](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0049_Group_Anagrams.py) 
 
@@ -95,6 +99,8 @@
 [152. Maximum Product Subarray](0152_Maximum_Product_Subarray.py) 
 
 [167. Two Sum II - Input array is sorted](Explore/Array%20and%20String/Two-Pointer%20Technique/0167_Two_Sum_II_-_Input_array_is_sorted.py) 
+
+[171. Excel Sheet Column Number](0171_Excel_Sheet_Column_Number.py) 
 
 [172. Factorial Trailing Zeroes](0172_Factorial_Trailing_Zeroes.py) 
 
@@ -162,6 +168,8 @@
 [413. Arithmetic Slices](0413_Arithmetic_Slices.py) 
 
 [414. Third Maximum Number](0414_Third_Maximum_Number.py) 
+
+[415. Add Strings](0415_Add_Strings.py) 
 
 [429. N-ary Tree Level Order Traversal](Explore/N-ary%20Tree/Traversal/0429_N-ary_Tree_Level_Order_Traversal.py) 
 
@@ -244,5 +252,9 @@
 [771. Jewels and Stones](Explore/Hash%20Table/Conclusions/0771_Jewels_and_Stones.py) 
 
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
+
+[989. Add to Array-Form of Integer](0989_Add_to_Array-Form_of_Integer.py) 
+
+[1110. Delete Nodes And Return Forest](1110_Delete_Nodes_And_Return_Forest.py) 
 
 [1200. Minimum Absolute Difference](1200_Minimum_Absolute_Difference.py) 
