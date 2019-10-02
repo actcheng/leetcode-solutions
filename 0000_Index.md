@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 160 / 1205
+### Problems solved: 165 / 1205
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -34,6 +34,8 @@
 
 [28. Implement strStr()](Explore/Array%20and%20String/Introduction%20to%20String/0028_Implement_strStr().py) 
 
+[33. Search in Rotated Sorted Array](Explore/Binary%20Search/Template%20I/0033_Search_in_Rotated_Sorted_Array.py) 
+
 [36. Valid Sudoku](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0036_Valid_Sudoku.py)
 
 [38. Count and Say](0038_Count_and_Say.py) 
@@ -53,6 +55,8 @@
 [66. Plus One](0066_Plus_One.py) 
 
 [67. Add Binary](Explore/Array%20and%20String/Introduction%20to%20String/0067_Add_Binary.py) 
+
+[69. Sqrt(x)](Explore/Binary%20Search/Template%20I/0069_Sqrt(x).py) 
 
 [88. Merge Sorted Array](0088_Merge_Sorted_Array.py) 
 
@@ -135,6 +139,8 @@
 
 [268. Missing Number](0268_Missing_Number.py) 
 
+[278. First Bad Version](Explore/Binary%20Search/Template%20II/0278_First_Bad_Version.py) 
+
 [283. Move Zeroes](Explore/Array%20and%20String/Conclusion/0283_Move_Zeroes.py)
 
 [290. Word Pattern](0290_Word_Pattern.py) 
@@ -152,6 +158,8 @@
 [349. Intersection of Two Arrays](%20Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0349_Intersection_of_Two_Arrays.py) 
 
 [350. Intersection of Two Arrays II](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0350_Intersection_of_Two_Arrays_II.py) 
+
+[374. Guess Number Higher or Lower](Explore/Binary%20Search/Template%20I/0374_Guess_Number_Higher_or_Lower.py) 
 
 [380. Insert Delete GetRandom O(1)](Explore/Hash%20Table/Conclusions/0380_Insert_Delete_GetRandom_O(1).py) 
 
@@ -238,6 +246,8 @@
 [700. Search in a Binary Search Tree](Explore/Binary%20Search%20Tree/Basic%20Operations%20in%20BST/0700_Search_in_a_Binary_Search_Tree.py) 
 
 [701. Insert into a Binary Search Tree](Explore/Binary%20Search%20Tree/Basic%20Operations%20in%20BST/0701_Insert_into_a_Binary_Search_Tree.py) 
+
+[704. Binary Search](Explore/Binary%20Search/Background/0704_Binary_Search.py) 
 
 [705. Design HashSet](Explore/Hash%20Table/Design%20a%20Hash%20Table/0705_Design_HashSet.py) 
 
