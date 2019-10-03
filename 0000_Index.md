@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 165 / 1205
+### Problems solved: 170 / 1212
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -35,6 +35,8 @@
 [28. Implement strStr()](Explore/Array%20and%20String/Introduction%20to%20String/0028_Implement_strStr().py) 
 
 [33. Search in Rotated Sorted Array](Explore/Binary%20Search/Template%20I/0033_Search_in_Rotated_Sorted_Array.py) 
+
+[34. Find First and Last Position of Element in Sorted Array](Explore/Binary%20Search/Template%20III/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) 
 
 [36. Valid Sudoku](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0036_Valid_Sudoku.py)
 
@@ -101,6 +103,10 @@
 [151. Reverse Words in a String](Explore/Array%20and%20String/Conclusion/0151_Reverse_Words_in_a_String.py) 
 
 [152. Maximum Product Subarray](0152_Maximum_Product_Subarray.py) 
+
+[153. Find Minimum in Rotated Sorted Array](Explore/Binary%20Search/Template%20II/0153_Find_Minimum_in_Rotated_Sorted_Array.py)
+
+[162. Find Peak Element](Explore/Binary%20Search/Template%20II/0162_Find_Peak_Element.py) 
 
 [167. Two Sum II - Input array is sorted](Explore/Array%20and%20String/Two-Pointer%20Technique/0167_Two_Sum_II_-_Input_array_is_sorted.py) 
 
@@ -263,7 +269,11 @@
 
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
 
+[976. Largest Perimeter Triangle](0976_Largest_Perimeter_Triangle.py) 
+
 [989. Add to Array-Form of Integer](0989_Add_to_Array-Form_of_Integer.py) 
+
+[1108. Defanging an IP Address](1108_Defanging_an_IP_Address.py) 
 
 [1110. Delete Nodes And Return Forest](1110_Delete_Nodes_And_Return_Forest.py) 
 
