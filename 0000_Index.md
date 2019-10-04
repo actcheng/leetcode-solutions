@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 170 / 1212
+### Problems solved: 172 / 1212
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -223,6 +223,8 @@
 
 [590. N-ary Tree Postorder Traversal](Explore/N-ary%20Tree/Traversal/0590_N-ary_Tree_Postorder_Traversal.py) 
 
+[592. Fraction Addition and Subtraction](0592_Fraction_Addition_and_Subtraction.py) 
+
 [593. Valid Square](0593_Valid_Square.py) 
 
 [598. Range Addition II](0598_Range_Addition_II.py) 
@@ -238,6 +240,8 @@
 [648. Replace Words](%20Explore/Trie/Practical%20Applications%20I/0648_Replace_Words.py) 
 
 [652. Find Duplicate Subtrees](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0652_Find_Duplicate_Subtrees.py) 
+
+[658. Find K Closest Elements](Explore/Binary%20Search/Template%20III/0658_Find_K_Closest_Elements.py) 
 
 [661. Image Smoother](0661_Image_Smoother.py) 
 
