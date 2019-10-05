@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 172 / 1212
+### Problems solved: 175 / 1212
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -47,6 +47,8 @@
 [47. Permutations II](0047_Permutations_II.py) 
 
 [49. Group Anagrams](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0049_Group_Anagrams.py) 
+
+[50. Pow(x, n)](Explore/Binary%20Search/Conclusion/0050_Pow(x,_n).py) 
 
 [54. Spiral Matrix](Explore/Array%20and%20String/Introduction%20to%202D%20Array/0054_Spiral_Matrix.py) 
 
@@ -165,6 +167,8 @@
 
 [350. Intersection of Two Arrays II](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0350_Intersection_of_Two_Arrays_II.py) 
 
+[367. Valid Perfect Square](Explore/Binary%20Search/Conclusion/0367_Valid_Perfect_Square.py) 
+
 [374. Guess Number Higher or Lower](Explore/Binary%20Search/Template%20I/0374_Guess_Number_Higher_or_Lower.py) 
 
 [380. Insert Delete GetRandom O(1)](Explore/Hash%20Table/Conclusions/0380_Insert_Delete_GetRandom_O(1).py) 
@@ -266,6 +270,8 @@
 [707. Design Linked List](Explore/Linked%20List/Singly%20Linked%20List/0707_Design_Linked_List.py) 
 
 [724. Find Pivot Index](Explore/Array%20and%20String/Introduction%20to%20Array/0724_Find_Pivot_Index.py) 
+
+[744. Find Smallest Letter Greater Than Target](Explore/Binary%20Search/Conclusion/0744_Find_Smallest_Letter_Greater_Than_Target.py) 
 
 [747. Largest Number At Least Twice of Others](Explore/Array%20and%20String/Introduction%20to%20Array/0747_Largest_Number_At_Least_Twice_of_Others.py) 
 
