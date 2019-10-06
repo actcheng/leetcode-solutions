@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 175 / 1212
+### Problems solved: 178 / 1212
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -17,6 +17,8 @@
 [8. String to Integer (atoi)](0008_String_to_Integer_(atoi).py) 
 
 [9. Palindrome Number](0009_Palindrome_Number.py) 
+
+[12. Integer to Roman](0012_Integer_to_Roman.py) 
 
 [13. Roman to Integer](0013_Roman_to_Integer.py) 
 
@@ -147,7 +149,11 @@
 
 [268. Missing Number](0268_Missing_Number.py) 
 
+[273. Integer to English Words](0273_Integer_to_English_Words.py) 
+
 [278. First Bad Version](Explore/Binary%20Search/Template%20II/0278_First_Bad_Version.py) 
+
+[279. Perfect Squares](0279_Perfect_Squares.py) 
 
 [283. Move Zeroes](Explore/Array%20and%20String/Conclusion/0283_Move_Zeroes.py)
 
