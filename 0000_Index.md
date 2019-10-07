@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 178 / 1212
+### Problems solved: 180 / 1220
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -63,6 +63,8 @@
 [67. Add Binary](Explore/Array%20and%20String/Introduction%20to%20String/0067_Add_Binary.py) 
 
 [69. Sqrt(x)](Explore/Binary%20Search/Template%20I/0069_Sqrt(x).py) 
+
+[70. Climbing Stairs](0070_Climbing_Stairs.py) 
 
 [88. Merge Sorted Array](0088_Merge_Sorted_Array.py) 
 
@@ -278,6 +280,8 @@
 [724. Find Pivot Index](Explore/Array%20and%20String/Introduction%20to%20Array/0724_Find_Pivot_Index.py) 
 
 [744. Find Smallest Letter Greater Than Target](Explore/Binary%20Search/Conclusion/0744_Find_Smallest_Letter_Greater_Than_Target.py) 
+
+[746. Min Cost Climbing Stairs](0746_Min_Cost_Climbing_Stairs.py) 
 
 [747. Largest Number At Least Twice of Others](Explore/Array%20and%20String/Introduction%20to%20Array/0747_Largest_Number_At_Least_Twice_of_Others.py) 
 
