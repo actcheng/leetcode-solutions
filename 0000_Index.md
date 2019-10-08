@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 180 / 1220
+### Problems solved: 182 / 1220
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -89,6 +89,8 @@
 [110. Balanced Binary Tree](Explore/Binary%20Search%20Tree/Height-balanced%20BST/0110_Balanced_Binary_Tree.py) 
 
 [112. Path Sum](Explore/Binary%20Tree/Solve%20Problems%20Recursively/0112_Path_Sum.py) 
+
+[113. Path Sum II](0113_Path_Sum_II.py) 
 
 [116. Populating Next Right Pointers in Each Node](Explore/Binary%20Tree/Conclusions/0116_Populating_Next_Right_Pointers_in_Each_Node.py) 
 
@@ -198,6 +200,8 @@
 [415. Add Strings](0415_Add_Strings.py) 
 
 [429. N-ary Tree Level Order Traversal](Explore/N-ary%20Tree/Traversal/0429_N-ary_Tree_Level_Order_Traversal.py) 
+
+[437. Path Sum III](0437_Path_Sum_III.py) 
 
 [441. Arranging Coins](0441_Arranging_Coins.py) 
 
