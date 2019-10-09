@@ -48,6 +48,8 @@
 
 [47. Permutations II](0047_Permutations_II.py) 
 
+[48. Rotate Image](0048_Rotate_Image.py) 
+
 [49. Group Anagrams](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0049_Group_Anagrams.py) 
 
 [50. Pow(x, n)](Explore/Binary%20Search/Conclusion/0050_Pow(x,_n).py) 
@@ -142,6 +144,8 @@
 
 [219. Contains Duplicate II](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0219_Contains_Duplicate_II.py
 ) 
+
+[228. Summary Ranges](0228_Summary_Ranges.py) 
 
 [235. Lowest Common Ancestor of a Binary Search Tree](Explore/Binary%20Search%20Tree/Conclusion/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py) 
 
@@ -288,6 +292,8 @@
 [746. Min Cost Climbing Stairs](0746_Min_Cost_Climbing_Stairs.py) 
 
 [747. Largest Number At Least Twice of Others](Explore/Array%20and%20String/Introduction%20to%20Array/0747_Largest_Number_At_Least_Twice_of_Others.py) 
+
+[767. Reorganize String](0767_Reorganize_String.py) 
 
 [771. Jewels and Stones](Explore/Hash%20Table/Conclusions/0771_Jewels_and_Stones.py) 
 
