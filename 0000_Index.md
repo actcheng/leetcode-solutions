@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 182 / 1220
+### Problems solved: 186 / 1220
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -39,6 +39,8 @@
 [33. Search in Rotated Sorted Array](Explore/Binary%20Search/Template%20I/0033_Search_in_Rotated_Sorted_Array.py) 
 
 [34. Find First and Last Position of Element in Sorted Array](Explore/Binary%20Search/Template%20III/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) 
+
+[35. Search Insert Position](0035_Search_Insert_Position.py) 
 
 [36. Valid Sudoku](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0036_Valid_Sudoku.py)
 
