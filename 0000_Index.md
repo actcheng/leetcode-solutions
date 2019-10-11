@@ -46,6 +46,8 @@
 
 [38. Count and Say](0038_Count_and_Say.py) 
 
+[39. Combination Sum](0039_Combination_Sum.py) 
+
 [46. Permutations](0046_Permutations.py) 
 
 [47. Permutations II](0047_Permutations_II.py) 
@@ -226,6 +228,8 @@
 [537. Complex Number Multiplication](0537_Complex_Number_Multiplication.py) 
 
 [538. Convert BST to Greater Tree](Explore/Binary%20Search%20Tree/Other%20exercises/0538_Convert_BST_to_Greater_Tree.py) 
+
+[539. Minimum Time Difference](0539_Minimum_Time_Difference.py) 
 
 [541. Reverse String II](0541_Reverse_String_II.py) 
 
