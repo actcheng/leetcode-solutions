@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 186 / 1220
+### Problems solved: 189 / 1220
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -73,6 +73,8 @@
 [70. Climbing Stairs](0070_Climbing_Stairs.py) 
 
 [88. Merge Sorted Array](0088_Merge_Sorted_Array.py) 
+
+[83. Remove Duplicates from Sorted List](0083_Remove_Duplicates_from_Sorted_List) 
 
 [98. Validate Binary Search Tree](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0098_Validate_Binary_Search_Tree.py) 
 
