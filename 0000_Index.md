@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 189 / 1220
+### Problems solved: 191 / 1224
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -63,6 +63,8 @@
 [56. Merge Intervals](0056_Merge_Intervals.py) 
 
 [58. Length of Last Word](0058_Length_of_Last_Word.py) 
+
+[62. Unique Paths](0062_Unique_Paths.py) 
 
 [66. Plus One](0066_Plus_One.py) 
 
@@ -269,6 +271,8 @@
 
 [652. Find Duplicate Subtrees](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0652_Find_Duplicate_Subtrees.py) 
 
+[657. Robot Return to Origin](0657_Robot_Return_to_Origin.py) 
+
 [658. Find K Closest Elements](Explore/Binary%20Search/Template%20III/0658_Find_K_Closest_Elements.py) 
 
 [661. Image Smoother](0661_Image_Smoother.py) 
@@ -316,3 +320,12 @@
 [1110. Delete Nodes And Return Forest](1110_Delete_Nodes_And_Return_Forest.py) 
 
 [1200. Minimum Absolute Difference](1200_Minimum_Absolute_Difference.py) 
+
+
+## Not in Problems
+
+### Decision Tree
+
+[Calculate Entropy Entropy](Calculate_Entropy_Entropy.py) 
+
+[Calculate Maximum Information Gain Maximum Information Gain](Calculate_Maximum_Information_Gain_Maximum_Information_Gain.py) 
