@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 191 / 1224
+### Problems solved: 193 / 1224
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -309,11 +309,15 @@
 
 [771. Jewels and Stones](Explore/Hash%20Table/Conclusions/0771_Jewels_and_Stones.py) 
 
+[784. Letter Case Permutation](0784_Letter_Case_Permutation.py) 
+
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
 
 [976. Largest Perimeter Triangle](0976_Largest_Perimeter_Triangle.py) 
 
 [989. Add to Array-Form of Integer](0989_Add_to_Array-Form_of_Integer.py) 
+
+[1047. Remove All Adjacent Duplicates In String](1047_Remove_All_Adjacent_Duplicates_In_String.py) 
 
 [1108. Defanging an IP Address](1108_Defanging_an_IP_Address.py) 
 
