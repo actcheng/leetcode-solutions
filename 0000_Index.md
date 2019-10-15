@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 193 / 1224
+### Problems solved: 194 / 1224
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -262,6 +262,8 @@
 [599. Minimum Index Sum of Two Lists](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0599_Minimum_Index_Sum_of_Two_Lists.py) 
 
 [637. Average of Levels in Binary Tree](Explore/Binary%20Tree/Other%20exercises/0637_Average_of_Levels_in_Binary_Tree.py) 
+
+[640. Solve the Equation](0640_Solve_the_Equation.py) 
 
 [643. Maximum Average Subarray I](0643_Maximum_Average_Subarray_I.py) 
 
