@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 194 / 1224
+### Problems solved: 196 / 1224
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -97,6 +97,8 @@
 [108. Convert Sorted Array to Binary Search Tree](Explore/Binary%20Search%20Tree/Height-balanced%20BST/0108_Convert_Sorted_Array_to_Binary_Search_Tree.py) 
 
 [110. Balanced Binary Tree](Explore/Binary%20Search%20Tree/Height-balanced%20BST/0110_Balanced_Binary_Tree.py) 
+
+[111. Minimum Depth of Binary Tree](0111_Minimum_Depth_of_Binary_Tree.py) 
 
 [112. Path Sum](Explore/Binary%20Tree/Solve%20Problems%20Recursively/0112_Path_Sum.py) 
 
@@ -312,6 +314,8 @@
 [771. Jewels and Stones](Explore/Hash%20Table/Conclusions/0771_Jewels_and_Stones.py) 
 
 [784. Letter Case Permutation](0784_Letter_Case_Permutation.py) 
+
+[872. Leaf-Similar Trees](0872_Leaf-Similar_Trees.py) 
 
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
 
