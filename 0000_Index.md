@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 197 / 1224
+### Problems solved: 198 / 1224
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -137,6 +137,8 @@
 [173. Binary Search Tree Iterator](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0173_Binary_Search_Tree_Iterator.py) 
 
 [189. Rotate Array](Explore/Array%20and%20String/Conclusion/0189_Rotate_Array.py) 
+
+[200. Number of Islands](Explore/Queue%20&%20Stack/Queue%20and%20BFS/0200_Number_of_Islands.py) 
 
 [202. Happy Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0202_Happy_Number.py) 
 
