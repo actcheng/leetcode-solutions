@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 200 / 1227
+### Problems solved: 201 / 1227
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -310,6 +310,8 @@
 [707. Design Linked List](Explore/Linked%20List/Singly%20Linked%20List/0707_Design_Linked_List.py) 
 
 [724. Find Pivot Index](Explore/Array%20and%20String/Introduction%20to%20Array/0724_Find_Pivot_Index.py) 
+
+[739. Daily Temperatures](Explore/Queue%20&%20Stack/Queue%20and%20BFS/0739_Daily_Temperatures.py) 
 
 [744. Find Smallest Letter Greater Than Target](Explore/Binary%20Search/Conclusion/0744_Find_Smallest_Letter_Greater_Than_Target.py) 
 
