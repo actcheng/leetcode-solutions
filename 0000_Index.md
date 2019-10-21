@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 201 / 1227
+### Problems solved: 202 / 1227
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -125,6 +125,8 @@
 [152. Maximum Product Subarray](0152_Maximum_Product_Subarray.py) 
 
 [153. Find Minimum in Rotated Sorted Array](Explore/Binary%20Search/Template%20II/0153_Find_Minimum_in_Rotated_Sorted_Array.py)
+
+[155. Min Stack](Explore/Queue%20&%20Stack/Stack/0155_Min_Stack.py) 
 
 [162. Find Peak Element](Explore/Binary%20Search/Template%20II/0162_Find_Peak_Element.py) 
 
@@ -311,7 +313,7 @@
 
 [724. Find Pivot Index](Explore/Array%20and%20String/Introduction%20to%20Array/0724_Find_Pivot_Index.py) 
 
-[739. Daily Temperatures](Explore/Queue%20&%20Stack/Queue%20and%20BFS/0739_Daily_Temperatures.py) 
+[739. Daily Temperatures](Explore/Queue%20&%20Stack/Stack/0739_Daily_Temperatures.py) 
 
 [744. Find Smallest Letter Greater Than Target](Explore/Binary%20Search/Conclusion/0744_Find_Smallest_Letter_Greater_Than_Target.py) 
 
