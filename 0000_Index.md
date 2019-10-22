@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 202 / 1227
+### Problems solved: 203 / 1227
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -131,6 +131,8 @@
 [162. Find Peak Element](Explore/Binary%20Search/Template%20II/0162_Find_Peak_Element.py) 
 
 [167. Two Sum II - Input array is sorted](Explore/Array%20and%20String/Two-Pointer%20Technique/0167_Two_Sum_II_-_Input_array_is_sorted.py) 
+
+[169. Majority Element](0169_Majority_Element.py) 
 
 [171. Excel Sheet Column Number](0171_Excel_Sheet_Column_Number.py) 
 
