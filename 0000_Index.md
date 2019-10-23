@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 203 / 1227
+### Problems solved: 204 / 1227
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -330,6 +330,8 @@
 [784. Letter Case Permutation](0784_Letter_Case_Permutation.py) 
 
 [872. Leaf-Similar Trees](0872_Leaf-Similar_Trees.py) 
+
+[877. Stone Game](0877_Stone_Game.py) 
 
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
 
