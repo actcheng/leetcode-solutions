@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 204 / 1227
+### Problems solved: 205 / 1227
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -119,6 +119,8 @@
 [129. Sum Root to Leaf Numbers](0129_Sum_Root_to_Leaf_Numbers.py) 
 
 [136. Single Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0136_Single_Number.py) 
+
+[150. Evaluate Reverse Polish Notation](Explore/Queue%20&%20Stack/Stack/0150_Evaluate_Reverse_Polish_Notation.py) 
 
 [151. Reverse Words in a String](Explore/Array%20and%20String/Conclusion/0151_Reverse_Words_in_a_String.py) 
 
