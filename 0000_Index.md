@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 206 / 1236
+### Problems solved: 207 / 1236
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -117,6 +117,8 @@
 [122. Best Time to Buy and Sell Stock II](0122_Best_Time_to_Buy_and_Sell_Stock_II.py) 
 
 [129. Sum Root to Leaf Numbers](0129_Sum_Root_to_Leaf_Numbers.py) 
+
+[133. Clone Graph](Explore/Queue%20&%20Stack/Stack%20and%20DFS/0133_Clone_Graph.py) 
 
 [136. Single Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0136_Single_Number.py) 
 
@@ -237,7 +239,7 @@
 
 [485. Max Consecutive Ones](Explore/Array%20and%20String/Two-Pointer%20Technique/0485_Max_Consecutive_Ones.py) 
 
-[494. Target Sum](Explore/Queue%20&%20Stack/Stack/0494_Target_Sum.py) 
+[494. Target Sum](Explore/Queue%20&%20Stack/Stack%20and%20DFS/0494_Target_Sum.py) 
 
 [509. Fibonacci Number](0509_Fibonacci_Number.py) 
 
