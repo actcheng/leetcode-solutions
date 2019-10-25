@@ -237,6 +237,8 @@
 
 [485. Max Consecutive Ones](Explore/Array%20and%20String/Two-Pointer%20Technique/0485_Max_Consecutive_Ones.py) 
 
+[494. Target Sum](Explore/Queue%20&%20Stack/Stack/0494_Target_Sum.py) 
+
 [509. Fibonacci Number](0509_Fibonacci_Number.py) 
 
 [513. Find Bottom Left Tree Value](0513_Find_Bottom_Left_Tree_Value.py) 
