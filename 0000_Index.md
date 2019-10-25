@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 205 / 1227
+### Problems solved: 206 / 1236
 
 [1. Two sum](0001_Two_sum.py) 
 
