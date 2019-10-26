@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 207 / 1236
+### Problems solved: 208 / 1236
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -210,6 +210,8 @@
 [387. First Unique Character in a String](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0387_First_Unique_Character_in_a_String.py) 
 
 [392. Is Subsequence](0392_Is_Subsequence.py) 
+
+[394. Decode String](Explore/Queue%20&%20Stack/Conclusions/0394_Decode_String.py) 
 
 [401. Binary Watch](0401_Binary_Watch.py) 
 
