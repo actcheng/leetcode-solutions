@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 208 / 1236
+### Problems solved: 210 / 1236
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -207,6 +207,8 @@
 
 [380. Insert Delete GetRandom O(1)](Explore/Hash%20Table/Conclusions/0380_Insert_Delete_GetRandom_O(1).py) 
 
+[383. Ransom Note](0383_Ransom_Note.py) 
+
 [387. First Unique Character in a String](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0387_First_Unique_Character_in_a_String.py) 
 
 [392. Is Subsequence](0392_Is_Subsequence.py) 
@@ -336,6 +338,8 @@
 [771. Jewels and Stones](Explore/Hash%20Table/Conclusions/0771_Jewels_and_Stones.py) 
 
 [784. Letter Case Permutation](0784_Letter_Case_Permutation.py) 
+
+[841. Keys and Rooms](Explore/Queue%20&%20Stack/Conclusions/0841_Keys_and_Rooms.py) 
 
 [872. Leaf-Similar Trees](0872_Leaf-Similar_Trees.py) 
 
