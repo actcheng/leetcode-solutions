@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 210 / 1236
+### Problems solved: 211 / 1236
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -348,6 +348,8 @@
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
 
 [976. Largest Perimeter Triangle](0976_Largest_Perimeter_Triangle.py) 
+
+[984. String Without AAA or BBB](984_String_Without_AAA_or_BBB.py)
 
 [989. Add to Array-Form of Integer](0989_Add_to_Array-Form_of_Integer.py) 
 
