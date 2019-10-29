@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 211 / 1236
+### Problems solved: 212 / 1240
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -338,6 +338,8 @@
 [771. Jewels and Stones](Explore/Hash%20Table/Conclusions/0771_Jewels_and_Stones.py) 
 
 [784. Letter Case Permutation](0784_Letter_Case_Permutation.py) 
+
+[796. Rotate String](796_Rotate_String.py)
 
 [841. Keys and Rooms](Explore/Queue%20&%20Stack/Conclusions/0841_Keys_and_Rooms.py) 
 
