@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 212 / 1240
+### Problems solved: 213 / 1240
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -362,6 +362,8 @@
 [1110. Delete Nodes And Return Forest](1110_Delete_Nodes_And_Return_Forest.py) 
 
 [1200. Minimum Absolute Difference](1200_Minimum_Absolute_Difference.py) 
+
+[1232. Check If It Is a Straight Line](1232_Check_If_It_Is_a_Straight_Line.py)
 
 
 ## Not in Problems
