@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 214 / 1241
+### Problems solved: 216 / 1242
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -65,6 +65,8 @@
 [58. Length of Last Word](0058_Length_of_Last_Word.py) 
 
 [62. Unique Paths](0062_Unique_Paths.py) 
+
+[64. Minimum Path Sum](0064_Minimum_Path_Sum.py) 
 
 [66. Plus One](0066_Plus_One.py) 
 
@@ -188,6 +190,8 @@
 [290. Word Pattern](0290_Word_Pattern.py) 
 
 [297. Serialize and Deserialize Binary Tree](Explore/Binary%20Tree/Conclusions/0297_Serialize_and_Deserialize_Binary_Tree.py) 
+
+[326. Power of Three](0326_Power_of_Three.py) 
 
 [338. Counting Bits](0338_Counting_Bits.py) 
 
