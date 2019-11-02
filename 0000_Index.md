@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 216 / 1242
+### Problems solved: 219 / 1242
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -118,6 +118,8 @@
 
 [122. Best Time to Buy and Sell Stock II](0122_Best_Time_to_Buy_and_Sell_Stock_II.py) 
 
+[125. Valid Palindrome](0125_Valid_Palindrome.py) 
+
 [129. Sum Root to Leaf Numbers](0129_Sum_Root_to_Leaf_Numbers.py) 
 
 [133. Clone Graph](Explore/Queue%20&%20Stack/Stack%20and%20DFS/0133_Clone_Graph.py) 
@@ -147,6 +149,8 @@
 [173. Binary Search Tree Iterator](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0173_Binary_Search_Tree_Iterator.py) 
 
 [189. Rotate Array](Explore/Array%20and%20String/Conclusion/0189_Rotate_Array.py) 
+
+[195. Tenth Line](0195_Tenth_Line.py) 
 
 [200. Number of Islands](Explore/Queue%20&%20Stack/Queue%20and%20BFS/0200_Number_of_Islands.py) 
 
@@ -352,6 +356,8 @@
 [877. Stone Game](0877_Stone_Game.py) 
 
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
+
+[965. Univalued Binary Tree](0965_Univalued_Binary_Tree.py) 
 
 [976. Largest Perimeter Triangle](0976_Largest_Perimeter_Triangle.py) 
 
