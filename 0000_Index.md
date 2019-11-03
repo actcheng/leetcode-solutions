@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 219 / 1242
+### Problems solved: 220 / 1242
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -278,6 +278,8 @@
 [561. Array Partition I](Explore/Array%20and%20String/Two-Pointer%20Technique/0561_Array_Partition_I.py) 
 
 [563. Binary Tree Tilt](Explore/Binary%20Tree/Other%20exercises/0563_Binary_Tree_Tilt.py) 
+
+[566. Reshape the Matrix](0566_Reshape_the_Matrix.py)
 
 [581. Shortest Unsorted Continuous Subarray](0581_Shortest_Unsorted_Continuous_Subarray.py) 
 
