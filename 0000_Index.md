@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 220 / 1242
+### Problems solved: 221 / 1242
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -172,6 +172,8 @@
 ) 
 
 [228. Summary Ranges](0228_Summary_Ranges.py) 
+
+[232. Implement Queue using Stacks](Explore/Queue%20&%20Stack/Conclusions/0232_Implement_Queue_using_Stacks.py) 
 
 [235. Lowest Common Ancestor of a Binary Search Tree](Explore/Binary%20Search%20Tree/Conclusion/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py) 
 
