@@ -112,9 +112,9 @@
 
 [117. Populating Next Right Pointers in Each Node II](Explore/Binary%20Tree/Conclusions/0117_Populating_Next_Right_Pointers_in_Each_Node_II.py) 
 
-[118. Pascal's Triangle](Explore/Array%20and%20String/Introduction%20to%202D%20Array/0118_Pascal's_Triangle.py) 
+[118. Pascal's Triangle](Explore/Array%20and%20String/Introduction%20to%202D%20Array/0118_Pascals_Triangle.py) 
 
-[119. Pascal's Triangle II](Explore/Array%20and%20String/Conclusion/0119_Pascal's_Triangle_II.py) 
+[119. Pascal's Triangle II](Explore/Array%20and%20String/Conclusion/0119_Pascals_Triangle_II.py) 
 
 [121. Best Time to Buy and Sell Stock](0121_Best_Time_to_Buy_and_Sell_Stock.py) 
 
