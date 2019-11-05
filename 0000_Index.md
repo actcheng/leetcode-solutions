@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 221 / 1242
+### Problems solved: 222 / 1250
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -29,6 +29,8 @@
 [20. Valid Parentheses](0020_Valid_Parentheses.py) 
 
 [21. Merge Two Sorted Lists](0021_Merge_Two_Sorted_Lists.py) 
+
+[24. Swap Nodes in Pairs](Recursion%20I/Principle%20of%20Recursion/0024_Swap_Nodes_in_Pairs.py) 
 
 [26. Remove Duplicates from Sorted Array](Explore/Array%20and%20String/Conclusion/0026_Remove_Duplicates_from_Sorted_Array.py) 
 
@@ -110,7 +112,7 @@
 
 [117. Populating Next Right Pointers in Each Node II](Explore/Binary%20Tree/Conclusions/0117_Populating_Next_Right_Pointers_in_Each_Node_II.py) 
 
-[118. Pascal's Triangle](Explore/Array%20and%20String/Introduction%20to%202D%20Array/118_Pascal's_Triangle.py) 
+[118. Pascal's Triangle](Explore/Array%20and%20String/Introduction%20to%202D%20Array/0118_Pascal's_Triangle.py) 
 
 [119. Pascal's Triangle II](Explore/Array%20and%20String/Conclusion/0119_Pascal's_Triangle_II.py) 
 
