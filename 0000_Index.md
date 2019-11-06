@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 222 / 1250
+### Problems solved: 223 / 1250
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -76,7 +76,7 @@
 
 [69. Sqrt(x)](Explore/Binary%20Search/Template%20I/0069_Sqrt(x).py) 
 
-[70. Climbing Stairs](0070_Climbing_Stairs.py) 
+[70. Climbing Stairs](Explore/Recursion%20I/Memorization/0070_Climbing_Stairs.py) 
 
 [88. Merge Sorted Array](0088_Merge_Sorted_Array.py) 
 
@@ -159,6 +159,8 @@
 [202. Happy Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0202_Happy_Number.py) 
 
 [205. Isomorphic Strings](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0205_Isomorphic_Strings.py) 
+
+[206. Reverse Linked List](Explore/Recursion%20I/Recursion%20Relation/0206_Reverse_Linked_List.py) 
 
 [208. Implement Trie (Prefix Tree)](Explore/Trie/Basic%20Operations/0208_Implement_Trie_(Prefix_Tree).py) 
 
@@ -257,7 +259,7 @@
 
 [494. Target Sum](Explore/Queue%20&%20Stack/Stack%20and%20DFS/0494_Target_Sum.py) 
 
-[509. Fibonacci Number](0509_Fibonacci_Number.py) 
+[509. Fibonacci Number](Explore/Recursion%20I/Memorization/0509_Fibonacci_Number.py) 
 
 [513. Find Bottom Left Tree Value](0513_Find_Bottom_Left_Tree_Value.py) 
 
