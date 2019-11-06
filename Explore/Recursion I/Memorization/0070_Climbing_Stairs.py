@@ -17,4 +17,12 @@ class Solution:
         
         return steps[n-1]
 
-
+# Date completed: 2019/11/06
+# 20 ms (100%)
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        if n < 2 : return 1
+        prev2, prev = 1,2
+        for i in range(2,n):
+            prev2, prev = prev, prev+prev2        
+        return prev
