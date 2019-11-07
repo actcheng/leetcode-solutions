@@ -18,3 +18,14 @@ class Solution:
                 prevK = K-ind*3
             # print('prevK',prevK)
             return self.kthGrammar(N-1,prevK)
+        
+# Shorter
+# 28 ms (98%)
+class Solution:
+    def kthGrammar(self, N: int, K: int) -> int:
+        if N <= 2:
+            return '0' if K==1 else '1'
+        else:
+            ind = 2**(N-3)
+            prevK = K if K <= ind*2 else K-ind if K<=ind*3 else K-ind*3
+            return self.kthGrammar(N-1,prevK)
