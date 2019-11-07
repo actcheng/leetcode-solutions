@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 223 / 1250
+### Problems solved: 224 / 1250
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -352,6 +352,8 @@
 [767. Reorganize String](0767_Reorganize_String.py) 
 
 [771. Jewels and Stones](Explore/Hash%20Table/Conclusions/0771_Jewels_and_Stones.py) 
+
+[779. K-th Symbol in Grammar](Explore/Recursion%20I/Conclusion/0779_K-th_Symbol_in_Grammar.py) 
 
 [784. Letter Case Permutation](0784_Letter_Case_Permutation.py) 
 
