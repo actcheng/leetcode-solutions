@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 224 / 1250
+### Problems solved: 226 / 1251
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -259,6 +259,8 @@
 
 [494. Target Sum](Explore/Queue%20&%20Stack/Stack%20and%20DFS/0494_Target_Sum.py) 
 
+[500. Keyboard Row](0500_Keyboard_Row.py) 
+
 [509. Fibonacci Number](Explore/Recursion%20I/Memorization/0509_Fibonacci_Number.py) 
 
 [513. Find Bottom Left Tree Value](0513_Find_Bottom_Left_Tree_Value.py) 
@@ -384,6 +386,8 @@
 [1161. Maximum Level Sum of a Binary Tree](1161_Maximum_Level_Sum_of_a_Binary_Tree.py) 
 
 [1200. Minimum Absolute Difference](1200_Minimum_Absolute_Difference.py) 
+
+[1207. Unique Number of Occurrences](1207_Unique_Number_of_Occurrences.py) 
 
 [1232. Check If It Is a Straight Line](1232_Check_If_It_Is_a_Straight_Line.py)
 
