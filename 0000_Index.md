@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 226 / 1251
+### Problems solved: 227 / 1251
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -37,6 +37,8 @@
 [27. Remove Element](Explore/Array%20and%20String/Two-Pointer%20Technique/0027_Remove_Element.py) 
 
 [28. Implement strStr()](Explore/Array%20and%20String/Introduction%20to%20String/0028_Implement_strStr().py) 
+
+[29. Divide Two Integers](0029_Divide_Two_Integers.py) 
 
 [33. Search in Rotated Sorted Array](Explore/Binary%20Search/Template%20I/0033_Search_in_Rotated_Sorted_Array.py) 
 
