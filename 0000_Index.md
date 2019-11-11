@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 227 / 1251
+### Problems solved: 228 / 1251
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -226,6 +226,8 @@
 [383. Ransom Note](0383_Ransom_Note.py) 
 
 [387. First Unique Character in a String](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0387_First_Unique_Character_in_a_String.py) 
+
+[388. Longest Absolute File Path](0388_Longest_Absolute_File_Path.py) 
 
 [392. Is Subsequence](0392_Is_Subsequence.py) 
 
