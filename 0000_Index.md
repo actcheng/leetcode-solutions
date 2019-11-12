@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 228 / 1251
+### Problems solved: 229 / 1251
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -184,6 +184,8 @@
 [235. Lowest Common Ancestor of a Binary Search Tree](Explore/Binary%20Search%20Tree/Conclusion/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py) 
 
 [236. Lowest Common Ancestor of a Binary Tree](Explore/Binary%20Tree/Conclusions/0236_Lowest_Common_Ancestor_of_a_Binary_Tree.py) 
+
+[240. Search a 2D Matrix II](Explore/Recursion%20II/Divide%20and%20Conquer/0240_Search_a_2D_Matrix_II.py) 
 
 [258. Add Digits](0258_Add_Digits.py) 
 
