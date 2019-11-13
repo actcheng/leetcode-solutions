@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 229 / 1251
+### Problems solved: 230 / 1251
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -332,6 +332,8 @@
 [677. Map Sum Pairs](Explore/Trie/Practical%20Applications%20I/0677_Map_Sum_Pairs.py) 
 
 [682. Baseball Game](0682_Baseball_Game.py) 
+
+[686. Repeated String Match](0686_Repeated_String_Match.py) 
 
 [690. Employee Importance](0690_Employee_Importance.py) 
 
