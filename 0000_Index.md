@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 232 / 1251
+### Problems solved: 233 / 1251
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -29,6 +29,8 @@
 [20. Valid Parentheses](0020_Valid_Parentheses.py) 
 
 [21. Merge Two Sorted Lists](0021_Merge_Two_Sorted_Lists.py) 
+
+[22. Generate Parentheses](Explore/Recursion%20II/Recursion%20to%20Iteration/0022_Generate_Parentheses.py) 
 
 [24. Swap Nodes in Pairs](Recursion%20I/Principle%20of%20Recursion/0024_Swap_Nodes_in_Pairs.py) 
 
@@ -86,7 +88,7 @@
 
 [98. Validate Binary Search Tree](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0098_Validate_Binary_Search_Tree.py) 
 
-[100. Same Tree](0100_Same_Tree.py)
+[100. Same Tree](Explore/Recursion%20II/Recursion%20to%20Iteration/0100_Same_Tree.py) 
 
 [101. Symmetric Tree](Explore/Binary%20Tree/Solve%20Problems%20Recursively/0101_Symmetric_Tree.py) 
 
