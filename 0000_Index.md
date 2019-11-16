@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 233 / 1251
+### Problems solved: 234 / 1251
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -368,6 +368,8 @@
 [771. Jewels and Stones](Explore/Hash%20Table/Conclusions/0771_Jewels_and_Stones.py) 
 
 [779. K-th Symbol in Grammar](Explore/Recursion%20I/Conclusion/0779_K-th_Symbol_in_Grammar.py) 
+
+[783. Minimum Distance Between BST Nodes](0783_Minimum_Distance_Between_BST_Nodes.py) 
 
 [784. Letter Case Permutation](0784_Letter_Case_Permutation.py) 
 
