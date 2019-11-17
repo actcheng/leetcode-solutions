@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 234 / 1251
+### Problems solved: 235 / 1251
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -402,6 +402,8 @@
 [1200. Minimum Absolute Difference](1200_Minimum_Absolute_Difference.py) 
 
 [1207. Unique Number of Occurrences](1207_Unique_Number_of_Occurrences.py) 
+
+[1222. Queens That Can Attack the King](1222_Queens_That_Can_Attack_the_King.py) 
 
 [1232. Check If It Is a Straight Line](1232_Check_If_It_Is_a_Straight_Line.py)
 
