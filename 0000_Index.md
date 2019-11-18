@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 235 / 1251
+### Problems solved: 237 / 1251
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -81,6 +81,8 @@
 [69. Sqrt(x)](Explore/Binary%20Search/Template%20I/0069_Sqrt(x).py) 
 
 [70. Climbing Stairs](Explore/Recursion%20I/Memorization/0070_Climbing_Stairs.py) 
+
+[79. Word Search](0079_Word_Search.py) 
 
 [88. Merge Sorted Array](0088_Merge_Sorted_Array.py) 
 
@@ -380,6 +382,8 @@
 [872. Leaf-Similar Trees](0872_Leaf-Similar_Trees.py) 
 
 [877. Stone Game](0877_Stone_Game.py) 
+
+[919. Complete Binary Tree Inserter](0919_Complete_Binary_Tree_Inserter.py) 
 
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
 
