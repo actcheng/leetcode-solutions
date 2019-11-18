@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 237 / 1251
+### Problems solved: 240 / 1251
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -25,6 +25,8 @@
 [14. Longest Common Prefix](Explore/Array%20and%20String/Introduction%20to%20String/0014_Longest_Common_Prefix.py) 
 
 [17. Letter Combinations of a Phone Number](0017_Letter_Combinations_of_a_Phone_Number.py) 
+
+[19. Remove Nth Node From End of List](0019_Remove_Nth_Node_From_End_of_List.py) 
 
 [20. Valid Parentheses](0020_Valid_Parentheses.py) 
 
@@ -187,9 +189,13 @@
 
 [235. Lowest Common Ancestor of a Binary Search Tree](Explore/Binary%20Search%20Tree/Conclusion/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py) 
 
-[236. Lowest Common Ancestor of a Binary Tree](Explore/Binary%20Tree/Conclusions/0236_Lowest_Common_Ancestor_of_a_Binary_Tree.py) 
+[236. Lowest Common Ancestor of a Binary Tree](Explore/Binary%20Tree/Conclusions/0236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)
+
+[237. Delete Node in a Linked List](0237_Delete_Node_in_a_Linked_List.py) 
 
 [240. Search a 2D Matrix II](Explore/Recursion%20II/Divide%20and%20Conquer/0240_Search_a_2D_Matrix_II.py) 
+
+[242. Valid Anagram](0242_Valid_Anagram.py) 
 
 [258. Add Digits](0258_Add_Digits.py) 
 
