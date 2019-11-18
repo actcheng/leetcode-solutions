@@ -74,3 +74,12 @@ class Solution:
         else:
             return 0
  
+# 2019/11/18
+# 24 ms (99%)
+
+class Solution:
+    def reverse(self, x: int) -> int:
+        x = min(2**31-1,max(-2**31,x))
+        sign = 1 if x > 0 else -1
+        num = sign*int(str(abs(x))[::-1])
+        return num if -2**31<=num<=2**31-1 else 0
