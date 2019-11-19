@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 240 / 1263
+### Problems solved: 243 / 1263
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -187,6 +187,8 @@
 
 [232. Implement Queue using Stacks](Explore/Queue%20&%20Stack/Conclusions/0232_Implement_Queue_using_Stacks.py) 
 
+[234. Palindrome Linked List](0234_Palindrome_Linked_List.py) 
+
 [235. Lowest Common Ancestor of a Binary Search Tree](Explore/Binary%20Search%20Tree/Conclusion/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py) 
 
 [236. Lowest Common Ancestor of a Binary Tree](Explore/Binary%20Tree/Conclusions/0236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)
@@ -270,6 +272,8 @@
 [459. Repeated Substring Pattern](0459_Repeated_Substring_Pattern.py) 
 
 [463. Island Perimeter](0463_Island_Perimeter.py) 
+
+[478. Generate Random Point in a Circle](0478_Generate_Random_Point_in_a_Circle.py) 
 
 [485. Max Consecutive Ones](Explore/Array%20and%20String/Two-Pointer%20Technique/0485_Max_Consecutive_Ones.py) 
 
@@ -416,6 +420,8 @@
 [1222. Queens That Can Attack the King](1222_Queens_That_Can_Attack_the_King.py) 
 
 [1232. Check If It Is a Straight Line](1232_Check_If_It_Is_a_Straight_Line.py)
+
+[1260. Shift 2D Grid](1260_Shift_2D_Grid.py) 
 
 
 ## Not in Problems
