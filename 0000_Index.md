@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 243 / 1263
+### Problems solved: 245 / 1263
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -404,6 +404,10 @@
 [984. String Without AAA or BBB](984_String_Without_AAA_or_BBB.py)
 
 [989. Add to Array-Form of Integer](0989_Add_to_Array-Form_of_Integer.py) 
+
+[1019. Next Greater Node In Linked List](1019_Next_Greater_Node_In_Linked_List.py) 
+
+[1051. Height Checker](1051_Height_Checker.py) 
 
 [1047. Remove All Adjacent Duplicates In String](1047_Remove_All_Adjacent_Duplicates_In_String.py) 
 
