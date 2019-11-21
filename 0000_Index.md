@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 245 / 1263
+### Problems solved: 246 / 1263
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -426,6 +426,8 @@
 [1232. Check If It Is a Straight Line](1232_Check_If_It_Is_a_Straight_Line.py)
 
 [1260. Shift 2D Grid](1260_Shift_2D_Grid.py) 
+
+[1261. Find Elements in a Contaminated Binary Tree](1261_Find_Elements_in_a_Contaminated_Binary_Tree.py) 
 
 
 ## Not in Problems
