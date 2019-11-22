@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 246 / 1263
+### Problems solved: 247 / 1263
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -386,6 +386,8 @@
 [784. Letter Case Permutation](0784_Letter_Case_Permutation.py) 
 
 [796. Rotate String](796_Rotate_String.py)
+
+[814. Binary Tree Pruning](0814_Binary_Tree_Pruning.py) 
 
 [841. Keys and Rooms](Explore/Queue%20&%20Stack/Conclusions/0841_Keys_and_Rooms.py) 
 
