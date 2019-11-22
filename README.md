@@ -1,7 +1,5 @@
 # Solution to Leetcode 
 
-Hi, I am Anna.
-
 This repository is for storing my codes which has been accepted in Leetcode.
 
-I am using Python 3.
+You may search for a particular question from the [Index](0000_Index.md)
