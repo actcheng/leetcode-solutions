@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 247 / 1263
+### Problems solved: 248 / 1263
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -83,6 +83,8 @@
 [69. Sqrt(x)](Explore/Binary%20Search/Template%20I/0069_Sqrt(x).py) 
 
 [70. Climbing Stairs](Explore/Recursion%20I/Memorization/0070_Climbing_Stairs.py) 
+
+[74. Search a 2D Matrix](0074_Search_a_2D_Matrix.py) 
 
 [79. Word Search](0079_Word_Search.py) 
 
