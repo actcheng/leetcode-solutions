@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 248 / 1263
+### Problems solved: 250 / 1269
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -394,6 +394,8 @@
 [841. Keys and Rooms](Explore/Queue%20&%20Stack/Conclusions/0841_Keys_and_Rooms.py) 
 
 [872. Leaf-Similar Trees](0872_Leaf-Similar_Trees.py) 
+
+[876. Middle of the Linked List](0876_Middle_of_the_Linked_List.py) 
 
 [877. Stone Game](0877_Stone_Game.py) 
 
