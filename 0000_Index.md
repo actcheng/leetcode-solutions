@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 251 / 1269
+### Problems solved: 252 / 1269
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -386,6 +386,8 @@
 [783. Minimum Distance Between BST Nodes](0783_Minimum_Distance_Between_BST_Nodes.py) 
 
 [784. Letter Case Permutation](0784_Letter_Case_Permutation.py) 
+
+[791. Custom Sort String](0791_Custom_Sort_String.py)
 
 [796. Rotate String](796_Rotate_String.py)
 
