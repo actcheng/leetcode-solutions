@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 254 / 1270
+### Problems solved: 255 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -161,6 +161,8 @@
 [173. Binary Search Tree Iterator](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0173_Binary_Search_Tree_Iterator.py) 
 
 [189. Rotate Array](Explore/Array%20and%20String/Conclusion/0189_Rotate_Array.py) 
+
+[191. Number of 1 Bits](0191_Number_of_1_Bits.py) 
 
 [195. Tenth Line](0195_Tenth_Line.py) 
 
