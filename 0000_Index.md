@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 255 / 1270
+### Problems solved: 257 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -162,6 +162,8 @@
 
 [189. Rotate Array](Explore/Array%20and%20String/Conclusion/0189_Rotate_Array.py) 
 
+[190. Reverse Bits](0190_Reverse_Bits.py) 
+
 [191. Number of 1 Bits](0191_Number_of_1_Bits.py) 
 
 [195. Tenth Line](0195_Tenth_Line.py) 
@@ -278,6 +280,8 @@
 [454. 4Sum II](Explore/Hash%20Table/Conclusions/0454_4Sum_II.py) 
 
 [459. Repeated Substring Pattern](0459_Repeated_Substring_Pattern.py) 
+
+[461. Hamming Distance](0461_Hamming_Distance.py) 
 
 [463. Island Perimeter](0463_Island_Perimeter.py) 
 
