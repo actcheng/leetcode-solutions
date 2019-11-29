@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 257 / 1270
+### Problems solved: 258 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -167,6 +167,8 @@
 [191. Number of 1 Bits](0191_Number_of_1_Bits.py) 
 
 [195. Tenth Line](0195_Tenth_Line.py) 
+
+[198. House Robber](0198_House_Robber.py) 
 
 [200. Number of Islands](Explore/Queue%20&%20Stack/Queue%20and%20BFS/0200_Number_of_Islands.py) 
 
