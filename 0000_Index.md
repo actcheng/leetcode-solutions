@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 258 / 1270
+### Problems solved: 259 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -432,6 +432,8 @@
 [1051. Height Checker](1051_Height_Checker.py) 
 
 [1047. Remove All Adjacent Duplicates In String](1047_Remove_All_Adjacent_Duplicates_In_String.py) 
+
+[1078. Occurrences After Bigram](1078_Occurrences_After_Bigram.py) 
 
 [1108. Defanging an IP Address](1108_Defanging_an_IP_Address.py) 
 
