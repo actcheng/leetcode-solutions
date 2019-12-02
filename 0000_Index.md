@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 259 / 1270
+### Problems solved: 260 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -246,6 +246,8 @@
 [374. Guess Number Higher or Lower](Explore/Binary%20Search/Template%20I/0374_Guess_Number_Higher_or_Lower.py) 
 
 [380. Insert Delete GetRandom O(1)](Explore/Hash%20Table/Conclusions/0380_Insert_Delete_GetRandom_O(1).py) 
+
+[382. Linked List Random Node](0382_Linked_List_Random_Node.py) 
 
 [383. Ransom Note](0383_Ransom_Note.py) 
 
