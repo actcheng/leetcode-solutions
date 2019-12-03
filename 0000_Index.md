@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 260 / 1270
+### Problems solved: 261 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -450,6 +450,8 @@
 [1222. Queens That Can Attack the King](1222_Queens_That_Can_Attack_the_King.py) 
 
 [1232. Check If It Is a Straight Line](1232_Check_If_It_Is_a_Straight_Line.py)
+
+[1237. Find Positive Integer Solution for a Given Equation](1237_Find_Positive_Integer_Solution_for_a_Given_Equation.py) 
 
 [1260. Shift 2D Grid](1260_Shift_2D_Grid.py) 
 
