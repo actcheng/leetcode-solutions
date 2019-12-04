@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 261 / 1270
+### Problems solved: 262 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -232,6 +232,8 @@
 [338. Counting Bits](0338_Counting_Bits.py) 
 
 [342. Power of Four](0342_Power_of_Four.py) 
+
+[343. Integer Break](0343_Integer_Break.py) 
 
 [344. Reverse String](Explore/Array%20and%20String/Two-Pointer%20Technique/0344_Reverse_String.py) 
 
