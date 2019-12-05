@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 262 / 1270
+### Problems solved: 263 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -370,6 +370,8 @@
 [686. Repeated String Match](0686_Repeated_String_Match.py) 
 
 [690. Employee Importance](0690_Employee_Importance.py) 
+
+[695. Max Area of Island](0695_Max_Area_of_Island.py) 
 
 [700. Search in a Binary Search Tree](Explore/Binary%20Search%20Tree/Basic%20Operations%20in%20BST/0700_Search_in_a_Binary_Search_Tree.py) 
 
