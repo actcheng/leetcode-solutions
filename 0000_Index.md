@@ -50,7 +50,7 @@
 
 [35. Search Insert Position](0035_Search_Insert_Position.py) 
 
-[36. Valid Sudoku](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0036_Valid_Sudoku.py)
+[36. Valid Sudoku](Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0036_Valid_Sudoku.py)
 
 [38. Count and Say](0038_Count_and_Say.py) 
 
