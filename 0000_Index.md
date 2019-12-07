@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 263 / 1270
+### Problems solved: 264 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -422,6 +422,8 @@
 [877. Stone Game](0877_Stone_Game.py) 
 
 [919. Complete Binary Tree Inserter](0919_Complete_Binary_Tree_Inserter.py) 
+
+[922. Sort Array By Parity II](0922_Sort_Array_By_Parity_II.py) 
 
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
 
