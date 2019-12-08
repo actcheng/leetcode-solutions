@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 264 / 1270
+### Problems solved: 265 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -414,6 +414,8 @@
 [814. Binary Tree Pruning](0814_Binary_Tree_Pruning.py) 
 
 [841. Keys and Rooms](Explore/Queue%20&%20Stack/Conclusions/0841_Keys_and_Rooms.py) 
+
+[868. Binary Gap](0868_Binary_Gap.py) 
 
 [872. Leaf-Similar Trees](0872_Leaf-Similar_Trees.py) 
 
