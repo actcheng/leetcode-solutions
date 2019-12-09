@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 265 / 1270
+### Problems solved: 266 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -428,6 +428,8 @@
 [922. Sort Array By Parity II](0922_Sort_Array_By_Parity_II.py) 
 
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
+
+[961. N-Repeated Element in Size 2N Array](0961_N-Repeated_Element_in_Size_2N_Array.py) 
 
 [965. Univalued Binary Tree](0965_Univalued_Binary_Tree.py) 
 
