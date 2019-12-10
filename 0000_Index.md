@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 266 / 1270
+### Problems solved: 267 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -159,6 +159,8 @@
 [172. Factorial Trailing Zeroes](0172_Factorial_Trailing_Zeroes.py) 
 
 [173. Binary Search Tree Iterator](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0173_Binary_Search_Tree_Iterator.py) 
+
+[175. Combine Two Tables](0175_Combine_Two_Tables.txt) 
 
 [189. Rotate Array](Explore/Array%20and%20String/Conclusion/0189_Rotate_Array.py) 
 
