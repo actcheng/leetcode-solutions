@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 268 / 1270
+### Problems solved: 269 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -161,6 +161,8 @@
 [173. Binary Search Tree Iterator](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0173_Binary_Search_Tree_Iterator.py) 
 
 [175. Combine Two Tables](0175_Combine_Two_Tables.txt) 
+
+[176. Second Highest Salary](0176_Second_Highest_Salary.txt) 
 
 [182. Duplicate Emails](0182_Duplicate_Emails.txt) 
 
