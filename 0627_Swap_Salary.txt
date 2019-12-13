@@ -1,0 +1,11 @@
+# Problem 627
+# Date completed: 2019/12/13 
+
+# 259 ms (25%)
+# Write your MySQL query statement below
+UPDATE salary
+SET sex = CASE 
+            WHEN sex='m' THEN 'f'
+            WHEN sex='f' THEN 'm'
+          END
+
