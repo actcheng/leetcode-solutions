@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 269 / 1270
+### Problems solved: 270 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -348,6 +348,8 @@
 [599. Minimum Index Sum of Two Lists](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0599_Minimum_Index_Sum_of_Two_Lists.py) 
 
 [609. Find Duplicate File in System](0609_Find_Duplicate_File_in_System.py) 
+
+[627. Swap Salary](0627_Swap_Salary.txt) 
 
 [637. Average of Levels in Binary Tree](Explore/Binary%20Tree/Other%20exercises/0637_Average_of_Levels_in_Binary_Tree.py) 
 
