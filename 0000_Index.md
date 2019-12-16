@@ -435,6 +435,8 @@
 
 [922. Sort Array By Parity II](0922_Sort_Array_By_Parity_II.py) 
 
+[925. Long Pressed Name](0925_Long_Pressed_Name.py) 
+
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
 
 [961. N-Repeated Element in Size 2N Array](0961_N-Repeated_Element_in_Size_2N_Array.py) 
