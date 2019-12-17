@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 270 / 1270
+### Problems solved: 275 / 1270
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -23,6 +23,10 @@
 [13. Roman to Integer](0013_Roman_to_Integer.py) 
 
 [14. Longest Common Prefix](Explore/Array%20and%20String/Introduction%20to%20String/0014_Longest_Common_Prefix.py) 
+
+[15. 3Sum](0015_3Sum.py) 
+
+[16. 3Sum Closest](0016_3Sum_Closest.py) 
 
 [17. Letter Combinations of a Phone Number](0017_Letter_Combinations_of_a_Phone_Number.py) 
 
@@ -305,6 +309,8 @@
 
 [500. Keyboard Row](0500_Keyboard_Row.py) 
 
+[508. Most Frequent Subtree Sum](0508_Most_Frequent_Subtree_Sum.py) 
+
 [509. Fibonacci Number](Explore/Recursion%20I/Memorization/0509_Fibonacci_Number.py) 
 
 [513. Find Bottom Left Tree Value](0513_Find_Bottom_Left_Tree_Value.py) 
@@ -448,6 +454,8 @@
 [984. String Without AAA or BBB](984_String_Without_AAA_or_BBB.py)
 
 [989. Add to Array-Form of Integer](0989_Add_to_Array-Form_of_Integer.py) 
+
+[997. Find the Town Judge](0997_Find_the_Town_Judge.py) 
 
 [1019. Next Greater Node In Linked List](1019_Next_Greater_Node_In_Linked_List.py) 
 
