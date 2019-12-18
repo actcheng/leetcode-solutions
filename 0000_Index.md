@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 285 / 1293
+### Problems solved: 292 / 1293
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -9,6 +9,8 @@
 [3. Longest Substring Without Repeating Characters](Explore/Hash%20Table/Conclusions/0003_Longest_Substring_Without_Repeating_Characters.py) 
 
 [4. Median of Two Sorted Arrays](0004_Median_of_Two_Sorted_Arrays.py)
+
+[5. Longest Palindromic Substring](0005_Longest_Palindromic_Substring.py) 
 
 [6. ZigZag Conversion](0006_ZigZag_Conversion.py) 
 
@@ -227,6 +229,8 @@
 
 [237. Delete Node in a Linked List](0237_Delete_Node_in_a_Linked_List.py) 
 
+[238. Product of Array Except Self](0238_Product_of_Array_Except_Self.py) 
+
 [240. Search a 2D Matrix II](Explore/Recursion%20II/Divide%20and%20Conquer/0240_Search_a_2D_Matrix_II.py) 
 
 [242. Valid Anagram](0242_Valid_Anagram.py) 
@@ -249,7 +253,11 @@
 
 [290. Word Pattern](0290_Word_Pattern.py) 
 
+[299. Bulls and Cows](0299_Bulls_and_Cows.py) 
+
 [297. Serialize and Deserialize Binary Tree](Explore/Binary%20Tree/Conclusions/0297_Serialize_and_Deserialize_Binary_Tree.py) 
+
+[303. Range Sum Query - Immutable](0303_Range_Sum_Query_-_Immutable.py) 
 
 [326. Power of Three](0326_Power_of_Three.py) 
 
@@ -260,6 +268,8 @@
 [343. Integer Break](0343_Integer_Break.py) 
 
 [344. Reverse String](Explore/Array%20and%20String/Two-Pointer%20Technique/0344_Reverse_String.py) 
+
+[345. Reverse Vowels of a String](0345_Reverse_Vowels_of_a_String.py) 
 
 [347. Top K Frequent Elements](%20Explore/Hash%20Table/Conclusions/0347_Top_K_Frequent_Elements.py) 
 
@@ -304,6 +314,8 @@
 [437. Path Sum III](0437_Path_Sum_III.py) 
 
 [441. Arranging Coins](0441_Arranging_Coins.py) 
+
+[442. Find All Duplicates in an Array](0442_Find_All_Duplicates_in_an_Array.py) 
 
 [450. Delete Node in a BST](Explore/Binary%20Search%20Tree/Basic%20Operations%20in%20BST/0450_Delete_Node_in_a_BST.py) 
 
@@ -454,6 +466,8 @@
 [876. Middle of the Linked List](0876_Middle_of_the_Linked_List.py) 
 
 [877. Stone Game](0877_Stone_Game.py) 
+
+[890. Find and Replace Pattern](0890_Find_and_Replace_Pattern.py) 
 
 [919. Complete Binary Tree Inserter](0919_Complete_Binary_Tree_Inserter.py) 
 
