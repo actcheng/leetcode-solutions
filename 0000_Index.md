@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 275 / 1270
+### Problems solved: 285 / 1293
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -69,6 +69,8 @@
 [49. Group Anagrams](%20%20Explore/Hash%20Table/Practical%20Applications-Design%20the%20Key/0049_Group_Anagrams.py) 
 
 [50. Pow(x, n)](Explore/Binary%20Search/Conclusion/0050_Pow(x,_n).py) 
+
+[53. Maximum Subarray](0053_Maximum_Subarray.py) 
 
 [54. Spiral Matrix](Explore/Array%20and%20String/Introduction%20to%202D%20Array/0054_Spiral_Matrix.py) 
 
@@ -152,6 +154,8 @@
 
 [155. Min Stack](Explore/Queue%20&%20Stack/Stack/0155_Min_Stack.py) 
 
+[160. Intersection of Two Linked Lists](0160_Intersection_of_Two_Linked_Lists.py)
+
 [162. Find Peak Element](Explore/Binary%20Search/Template%20II/0162_Find_Peak_Element.py) 
 
 [167. Two Sum II - Input array is sorted](Explore/Array%20and%20String/Two-Pointer%20Technique/0167_Two_Sum_II_-_Input_array_is_sorted.py) 
@@ -184,6 +188,8 @@
 
 [202. Happy Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0202_Happy_Number.py) 
 
+[203. Remove Linked List Elements](0203_Remove_Linked_List_Elements.py) 
+
 [204. Count Primes](0204_Count_Primes.py) 
 
 [205. Isomorphic Strings](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0205_Isomorphic_Strings.py) 
@@ -203,7 +209,13 @@
 [219. Contains Duplicate II](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0219_Contains_Duplicate_II.py
 ) 
 
+[225. Implement Stack using Queues](0225_Implement_Stack_using_Queues.py) 
+
+[226. Invert Binary Tree](0226_Invert_Binary_Tree.py) 
+
 [228. Summary Ranges](0228_Summary_Ranges.py) 
+
+[231. Power of Two](0231_Power_of_Two.py) 
 
 [232. Implement Queue using Stacks](Explore/Queue%20&%20Stack/Conclusions/0232_Implement_Queue_using_Stacks.py) 
 
@@ -218,6 +230,8 @@
 [240. Search a 2D Matrix II](Explore/Recursion%20II/Divide%20and%20Conquer/0240_Search_a_2D_Matrix_II.py) 
 
 [242. Valid Anagram](0242_Valid_Anagram.py) 
+
+[257. Binary Tree Paths](0257_Binary_Tree_Paths.py) 
 
 [258. Add Digits](0258_Add_Digits.py) 
 
@@ -300,6 +314,8 @@
 [461. Hamming Distance](0461_Hamming_Distance.py) 
 
 [463. Island Perimeter](0463_Island_Perimeter.py) 
+
+[468. Validate IP Address](0468_Validate_IP_Address.py) 
 
 [478. Generate Random Point in a Circle](0478_Generate_Random_Point_in_a_Circle.py) 
 
@@ -387,6 +403,8 @@
 
 [695. Max Area of Island](0695_Max_Area_of_Island.py) 
 
+[697. Degree of an Array](0697_Degree_of_an_Array.py) 
+
 [700. Search in a Binary Search Tree](Explore/Binary%20Search%20Tree/Basic%20Operations%20in%20BST/0700_Search_in_a_Binary_Search_Tree.py) 
 
 [701. Insert into a Binary Search Tree](Explore/Binary%20Search%20Tree/Basic%20Operations%20in%20BST/0701_Insert_into_a_Binary_Search_Tree.py) 
@@ -458,6 +476,8 @@
 [997. Find the Town Judge](0997_Find_the_Town_Judge.py) 
 
 [1019. Next Greater Node In Linked List](1019_Next_Greater_Node_In_Linked_List.py) 
+
+[1021. Remove Outermost Parentheses](1021_Remove_Outermost_Parentheses.py) 
 
 [1051. Height Checker](1051_Height_Checker.py) 
 
