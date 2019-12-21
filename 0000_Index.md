@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 292 / 1293
+### Problems solved: 293 / 1293
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -281,6 +281,8 @@
 
 [374. Guess Number Higher or Lower](Explore/Binary%20Search/Template%20I/0374_Guess_Number_Higher_or_Lower.py) 
 
+[376. Wiggle Subsequence](0376_Wiggle_Subsequence.py) 
+
 [380. Insert Delete GetRandom O(1)](Explore/Hash%20Table/Conclusions/0380_Insert_Delete_GetRandom_O(1).py) 
 
 [382. Linked List Random Node](0382_Linked_List_Random_Node.py) 
@@ -457,6 +459,8 @@
 
 [814. Binary Tree Pruning](0814_Binary_Tree_Pruning.py) 
 
+[822. Card Flipping Game](0822_Card_Flipping_Game.py) 
+
 [841. Keys and Rooms](Explore/Queue%20&%20Stack/Conclusions/0841_Keys_and_Rooms.py) 
 
 [868. Binary Gap](0868_Binary_Gap.py) 
@@ -518,6 +522,8 @@
 [1260. Shift 2D Grid](1260_Shift_2D_Grid.py) 
 
 [1261. Find Elements in a Contaminated Binary Tree](1261_Find_Elements_in_a_Contaminated_Binary_Tree.py) 
+
+[1282. Group the People Given the Group Size They Belong To](1282_Group_the_People_Given_the_Group_Size_They_Belong_To.py) 
 
 
 ## Not in Problems
