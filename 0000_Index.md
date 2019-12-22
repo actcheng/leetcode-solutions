@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 293 / 1293
+### Problems solved: 296 / 1293
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -478,6 +478,8 @@
 [922. Sort Array By Parity II](0922_Sort_Array_By_Parity_II.py) 
 
 [925. Long Pressed Name](0925_Long_Pressed_Name.py) 
+
+[953. Verifying an Alien Dictionary](0953_Verifying_an_Alien_Dictionary.py) 
 
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
 
