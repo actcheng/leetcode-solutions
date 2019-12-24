@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 296 / 1293
+### Problems solved: 298 / 1296
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -295,6 +295,8 @@
 
 [388. Longest Absolute File Path](0388_Longest_Absolute_File_Path.py) 
 
+[389. Find the Difference](0389_Find_the_Difference.py) 
+
 [392. Is Subsequence](0392_Is_Subsequence.py) 
 
 [394. Decode String](Explore/Queue%20&%20Stack/Conclusions/0394_Decode_String.py) 
@@ -368,6 +370,8 @@
 [563. Binary Tree Tilt](Explore/Binary%20Tree/Other%20exercises/0563_Binary_Tree_Tilt.py) 
 
 [566. Reshape the Matrix](0566_Reshape_the_Matrix.py)
+
+[575. Distribute Candies](0575_Distribute_Candies.py) 
 
 [581. Shortest Unsorted Continuous Subarray](0581_Shortest_Unsorted_Continuous_Subarray.py) 
 
