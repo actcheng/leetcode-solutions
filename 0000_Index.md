@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 300 / 1296
+### Problems solved: 303 / 1296
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -317,6 +317,8 @@
 
 [429. N-ary Tree Level Order Traversal](Explore/N-ary%20Tree/Traversal/0429_N-ary_Tree_Level_Order_Traversal.py) 
 
+[434. Number of Segments in a String](0434_Number_of_Segments_in_a_String.py) 
+
 [437. Path Sum III](0437_Path_Sum_III.py) 
 
 [441. Arranging Coins](0441_Arranging_Coins.py) 
@@ -471,6 +473,8 @@
 
 [841. Keys and Rooms](Explore/Queue%20&%20Stack/Conclusions/0841_Keys_and_Rooms.py) 
 
+[844. Backspace String Compare](0844_Backspace_String_Compare.py) 
+
 [868. Binary Gap](0868_Binary_Gap.py) 
 
 [872. Leaf-Similar Trees](0872_Leaf-Similar_Trees.py) 
@@ -502,6 +506,8 @@
 [989. Add to Array-Form of Integer](0989_Add_to_Array-Form_of_Integer.py) 
 
 [997. Find the Town Judge](0997_Find_the_Town_Judge.py) 
+
+[1018. Binary Prefix Divisible By 5](1018_Binary_Prefix_Divisible_By_5.py) 
 
 [1019. Next Greater Node In Linked List](1019_Next_Greater_Node_In_Linked_List.py) 
 
