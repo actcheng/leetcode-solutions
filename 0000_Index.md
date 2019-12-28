@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 303 / 1296
+### Problems solved: 305 / 1296
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -353,6 +353,8 @@
 
 [513. Find Bottom Left Tree Value](0513_Find_Bottom_Left_Tree_Value.py) 
 
+[520. Detect Capital](0520_Detect_Capital.py) 
+
 [537. Complex Number Multiplication](0537_Complex_Number_Multiplication.py) 
 
 [538. Convert BST to Greater Tree](Explore/Binary%20Search%20Tree/Other%20exercises/0538_Convert_BST_to_Greater_Tree.py) 
@@ -516,6 +518,8 @@
 [1051. Height Checker](1051_Height_Checker.py) 
 
 [1047. Remove All Adjacent Duplicates In String](1047_Remove_All_Adjacent_Duplicates_In_String.py) 
+
+[1071. Greatest Common Divisor of Strings](1071_Greatest_Common_Divisor_of_Strings.py) 
 
 [1078. Occurrences After Bigram](1078_Occurrences_After_Bigram.py) 
 
