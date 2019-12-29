@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 305 / 1296
+### Problems solved: 307 / 1307
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -442,6 +442,8 @@
 [706. Design HashMap](Explore/Hash%20Table/Design%20a%20Hash%20Table/0706_Design_HashMap.py) 
 
 [707. Design Linked List](Explore/Linked%20List/Singly%20Linked%20List/0707_Design_Linked_List.py) 
+
+[709. To Lower Case](0709_To_Lower_Case.py) 
 
 [724. Find Pivot Index](Explore/Array%20and%20String/Introduction%20to%20Array/0724_Find_Pivot_Index.py) 
 
