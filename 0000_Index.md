@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 307 / 1307
+### Problems solved: 308 / 1307
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -420,6 +420,8 @@
 [665. Non-decreasing Array](0665_Non-decreasing_Array.py) 
 
 [677. Map Sum Pairs](Explore/Trie/Practical%20Applications%20I/0677_Map_Sum_Pairs.py) 
+
+[680. Valid Palindrome II](0680_Valid_Palindrome_II.py) 
 
 [682. Baseball Game](0682_Baseball_Game.py) 
 
