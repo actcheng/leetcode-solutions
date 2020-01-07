@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 308 / 1307
+### Problems solved: 309 / 1312
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -492,6 +492,8 @@
 [890. Find and Replace Pattern](0890_Find_and_Replace_Pattern.py) 
 
 [919. Complete Binary Tree Inserter](0919_Complete_Binary_Tree_Inserter.py) 
+
+[921. Minimum Add to Make Parentheses Valid](0921_Minimum_Add_to_Make_Parentheses_Valid.py) 
 
 [922. Sort Array By Parity II](0922_Sort_Array_By_Parity_II.py) 
 
