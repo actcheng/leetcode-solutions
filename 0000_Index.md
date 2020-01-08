@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 309 / 1312
+### Problems solved: 311 / 1312
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -475,6 +475,8 @@
 
 [814. Binary Tree Pruning](0814_Binary_Tree_Pruning.py) 
 
+[819. Most Common Word](0819_Most_Common_Word.py) 
+
 [822. Card Flipping Game](0822_Card_Flipping_Game.py) 
 
 [841. Keys and Rooms](Explore/Queue%20&%20Stack/Conclusions/0841_Keys_and_Rooms.py) 
@@ -551,6 +553,7 @@
 
 [1282. Group the People Given the Group Size They Belong To](1282_Group_the_People_Given_the_Group_Size_They_Belong_To.py) 
 
+[1309. Decrypt String from Alphabet to Integer Mapping](1309_Decrypt_String_from_Alphabet_to_Integer_Mapping.py) 
 
 ## Not in Problems
 
