@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 312 / 1312
+### Problems solved: 314 / 1312
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -419,6 +419,8 @@
 
 [665. Non-decreasing Array](0665_Non-decreasing_Array.py) 
 
+[674. Longest Continuous Increasing Subsequence](0674_Longest_Continuous_Increasing_Subsequence.py) 
+
 [677. Map Sum Pairs](Explore/Trie/Practical%20Applications%20I/0677_Map_Sum_Pairs.py) 
 
 [680. Valid Palindrome II](0680_Valid_Palindrome_II.py) 
@@ -500,6 +502,8 @@
 [922. Sort Array By Parity II](0922_Sort_Array_By_Parity_II.py) 
 
 [925. Long Pressed Name](0925_Long_Pressed_Name.py) 
+
+[937. Reorder Data in Log Files](0937_Reorder_Data_in_Log_Files.py) 
 
 [953. Verifying an Alien Dictionary](0953_Verifying_an_Alien_Dictionary.py) 
 
