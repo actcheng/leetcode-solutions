@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 314 / 1312
+### Problems solved: 315 / 1312
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -354,6 +354,8 @@
 [513. Find Bottom Left Tree Value](0513_Find_Bottom_Left_Tree_Value.py) 
 
 [520. Detect Capital](0520_Detect_Capital.py) 
+
+[524. Longest Word in Dictionary through Deleting](0524_Longest_Word_in_Dictionary_through_Deleting.py) 
 
 [537. Complex Number Multiplication](0537_Complex_Number_Multiplication.py) 
 
