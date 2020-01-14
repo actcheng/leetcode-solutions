@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 315 / 1312
+### Problems solved: 320 / 1312
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -347,6 +347,8 @@
 
 [500. Keyboard Row](0500_Keyboard_Row.py) 
 
+[504. Base 7](0504_Base_7.py) 
+
 [508. Most Frequent Subtree Sum](0508_Most_Frequent_Subtree_Sum.py) 
 
 [509. Fibonacci Number](Explore/Recursion%20I/Memorization/0509_Fibonacci_Number.py) 
@@ -483,6 +485,8 @@
 
 [822. Card Flipping Game](0822_Card_Flipping_Game.py) 
 
+[832. Flipping an Image](0832_Flipping_an_Image.py) 
+
 [841. Keys and Rooms](Explore/Queue%20&%20Stack/Conclusions/0841_Keys_and_Rooms.py) 
 
 [844. Backspace String Compare](0844_Backspace_String_Compare.py) 
@@ -505,7 +509,11 @@
 
 [925. Long Pressed Name](0925_Long_Pressed_Name.py) 
 
+[929. Unique Email Addresses](0929_Unique_Email_Addresses.py) 
+
 [937. Reorder Data in Log Files](0937_Reorder_Data_in_Log_Files.py) 
+
+[944. Delete Columns to Make Sorted](0944_Delete_Columns_to_Make_Sorted.py) 
 
 [953. Verifying an Alien Dictionary](0953_Verifying_an_Alien_Dictionary.py) 
 
@@ -528,6 +536,8 @@
 [1019. Next Greater Node In Linked List](1019_Next_Greater_Node_In_Linked_List.py) 
 
 [1021. Remove Outermost Parentheses](1021_Remove_Outermost_Parentheses.py) 
+
+[1022. Sum of Root To Leaf Binary Numbers](1022_Sum_of_Root_To_Leaf_Binary_Numbers.py) 
 
 [1051. Height Checker](1051_Height_Checker.py) 
 
