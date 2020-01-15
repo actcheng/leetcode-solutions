@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 320 / 1312
+### Problems solved: 321 / 1321
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -304,6 +304,8 @@
 [401. Binary Watch](0401_Binary_Watch.py) 
 
 [404. Sum of Left Leaves](0404_Sum_of_Left_Leaves.py) 
+
+[405. Convert a Number to Hexadecimal](0405_Convert_a_Number_to_Hexadecimal.py) 
 
 [409. Longest Palindrome](0409_Longest_Palindrome.py)
 
