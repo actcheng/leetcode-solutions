@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 321 / 1321
+### Problems solved: 327 / 1321
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -343,6 +343,8 @@
 
 [478. Generate Random Point in a Circle](0478_Generate_Random_Point_in_a_Circle.py) 
 
+[482. License Key Formatting](0482_License_Key_Formatting.py) 
+
 [485. Max Consecutive Ones](Explore/Array%20and%20String/Two-Pointer%20Technique/0485_Max_Consecutive_Ones.py) 
 
 [494. Target Sum](Explore/Queue%20&%20Stack/Stack%20and%20DFS/0494_Target_Sum.py) 
@@ -350,6 +352,8 @@
 [500. Keyboard Row](0500_Keyboard_Row.py) 
 
 [504. Base 7](0504_Base_7.py) 
+
+[507. Perfect Number](0507_Perfect_Number.py) 
 
 [508. Most Frequent Subtree Sum](0508_Most_Frequent_Subtree_Sum.py) 
 
@@ -404,6 +408,8 @@
 [609. Find Duplicate File in System](0609_Find_Duplicate_File_in_System.py) 
 
 [627. Swap Salary](0627_Swap_Salary.txt) 
+
+[628. Maximum Product of Three Numbers](0628_Maximum_Product_of_Three_Numbers.py) 
 
 [637. Average of Levels in Binary Tree](Explore/Binary%20Tree/Other%20exercises/0637_Average_of_Levels_in_Binary_Tree.py) 
 
@@ -533,6 +539,8 @@
 
 [997. Find the Town Judge](0997_Find_the_Town_Judge.py) 
 
+[1013. Partition Array Into Three Parts With Equal Sum](1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py) 
+
 [1018. Binary Prefix Divisible By 5](1018_Binary_Prefix_Divisible_By_5.py) 
 
 [1019. Next Greater Node In Linked List](1019_Next_Greater_Node_In_Linked_List.py) 
@@ -540,6 +548,8 @@
 [1021. Remove Outermost Parentheses](1021_Remove_Outermost_Parentheses.py) 
 
 [1022. Sum of Root To Leaf Binary Numbers](1022_Sum_of_Root_To_Leaf_Binary_Numbers.py) 
+
+[1030. Matrix Cells in Distance Order](1030_Matrix_Cells_in_Distance_Order.py) 
 
 [1051. Height Checker](1051_Height_Checker.py) 
 
@@ -556,6 +566,8 @@
 [1137. N-th Tribonacci Number](1137_N-th_Tribonacci_Number.py) 
 
 [1161. Maximum Level Sum of a Binary Tree](1161_Maximum_Level_Sum_of_a_Binary_Tree.py) 
+
+[1170. Compare Strings by Frequency of the Smallest Character](1170_Compare_Strings_by_Frequency_of_the_Smallest_Character.py) 
 
 [1200. Minimum Absolute Difference](1200_Minimum_Absolute_Difference.py) 
 
