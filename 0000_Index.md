@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 330 / 1326
+### Problems solved: 331 / 1326
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -400,6 +400,8 @@
 [592. Fraction Addition and Subtraction](0592_Fraction_Addition_and_Subtraction.py) 
 
 [593. Valid Square](0593_Valid_Square.py) 
+
+[594. Longest Harmonious Subsequence](0594_Longest_Harmonious_Subsequence.py) 
 
 [598. Range Addition II](0598_Range_Addition_II.py) 
 
