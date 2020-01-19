@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 327 / 1321
+### Problems solved: 330 / 1326
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -499,6 +499,8 @@
 
 [844. Backspace String Compare](0844_Backspace_String_Compare.py) 
 
+[860. Lemonade Change](0860_Lemonade_Change.py) 
+
 [868. Binary Gap](0868_Binary_Gap.py) 
 
 [872. Leaf-Similar Trees](0872_Leaf-Similar_Trees.py) 
@@ -522,6 +524,8 @@
 [937. Reorder Data in Log Files](0937_Reorder_Data_in_Log_Files.py) 
 
 [944. Delete Columns to Make Sorted](0944_Delete_Columns_to_Make_Sorted.py) 
+
+[946. Validate Stack Sequences](0946_Validate_Stack_Sequences.py) 
 
 [953. Verifying an Alien Dictionary](0953_Verifying_an_Alien_Dictionary.py) 
 
@@ -586,6 +590,8 @@
 [1282. Group the People Given the Group Size They Belong To](1282_Group_the_People_Given_the_Group_Size_They_Belong_To.py) 
 
 [1309. Decrypt String from Alphabet to Integer Mapping](1309_Decrypt_String_from_Alphabet_to_Integer_Mapping.py) 
+
+[1324. Print Words Vertically](1324_Print_Words_Vertically.py) 
 
 ## Not in Problems
 
