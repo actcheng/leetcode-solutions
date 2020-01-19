@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 331 / 1326
+### Problems solved: 334 / 1326
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -409,6 +409,8 @@
 
 [609. Find Duplicate File in System](0609_Find_Duplicate_File_in_System.py) 
 
+[623. Add One Row to Tree](0623_Add_One_Row_to_Tree.py) 
+
 [627. Swap Salary](0627_Swap_Salary.txt) 
 
 [628. Maximum Product of Three Numbers](0628_Maximum_Product_of_Three_Numbers.py) 
@@ -585,9 +587,13 @@
 
 [1237. Find Positive Integer Solution for a Given Equation](1237_Find_Positive_Integer_Solution_for_a_Given_Equation.py) 
 
+[1249. Minimum Remove to Make Valid Parentheses](1249_Minimum_Remove_to_Make_Valid_Parentheses.py) 
+
 [1260. Shift 2D Grid](1260_Shift_2D_Grid.py) 
 
 [1261. Find Elements in a Contaminated Binary Tree](1261_Find_Elements_in_a_Contaminated_Binary_Tree.py) 
+
+[1266. Minimum Time Visiting All Points](1266_Minimum_Time_Visiting_All_Points.py) 
 
 [1282. Group the People Given the Group Size They Belong To](1282_Group_the_People_Given_the_Group_Size_They_Belong_To.py) 
 
