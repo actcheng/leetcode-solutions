@@ -505,6 +505,8 @@
 
 [860. Lemonade Change](0860_Lemonade_Change.py) 
 
+[867. Transpose Matrix](0867_Transpose_Matrix.py) 
+
 [868. Binary Gap](0868_Binary_Gap.py) 
 
 [872. Leaf-Similar Trees](0872_Leaf-Similar_Trees.py) 
@@ -570,6 +572,8 @@
 [1108. Defanging an IP Address](1108_Defanging_an_IP_Address.py) 
 
 [1110. Delete Nodes And Return Forest](1110_Delete_Nodes_And_Return_Forest.py) 
+
+[1122. Relative Sort Array](1122_Relative_Sort_Array.py) 
 
 [1137. N-th Tribonacci Number](1137_N-th_Tribonacci_Number.py) 
 
