@@ -12,3 +12,32 @@ class Solution:
             else:
                 hashTable[key] = [s]
         return list(hashTable.values())
+    
+# 2020/04/06
+# 208 ms
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        
+        def sort(s):
+            counts = collections.Counter(s)
+            letters = sorted(list(counts.keys()))
+            return ''.join([l*counts[l] for l in letters])
+                           
+        groups = collections.defaultdict(list)
+        [groups[sort(s)].append(s) for s in strs]
+        
+        return list(groups.values())
+    
+# 192 ms
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        
+        def sort(s):
+            counts = collections.Counter(s)
+            letters = sorted(list(counts.keys()))
+            return ''.join([l*counts[l] for l in letters])
+                           
+        groups = collections.defaultdict(list)
+        [groups[sort(s)].append(s) for s in strs]
+        
+        return list(groups.values())
