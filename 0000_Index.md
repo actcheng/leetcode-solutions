@@ -563,6 +563,8 @@
 
 [1051. Height Checker](1051_Height_Checker.py) 
 
+[1046. Last Stone Weight](1046_Last_Stone_Weight.py) 
+
 [1047. Remove All Adjacent Duplicates In String](1047_Remove_All_Adjacent_Duplicates_In_String.py) 
 
 [1071. Greatest Common Divisor of Strings](1071_Greatest_Common_Divisor_of_Strings.py) 
