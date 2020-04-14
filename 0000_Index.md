@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 334 / 1326
+### Problems solved: 339 / 1411
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -364,6 +364,8 @@
 [520. Detect Capital](0520_Detect_Capital.py) 
 
 [524. Longest Word in Dictionary through Deleting](0524_Longest_Word_in_Dictionary_through_Deleting.py) 
+
+[525. Contiguous Array](0525_Contiguous_Array.py) 
 
 [537. Complex Number Multiplication](0537_Complex_Number_Multiplication.py) 
 
