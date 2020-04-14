@@ -611,6 +611,9 @@
 
 ## Not in Problems
 
+### 30-Day leetcoding challenge
+[Perform String Shifts](Perform_String_Shifts.py) 
+
 ### Decision Tree
 
 [Calculate Entropy Entropy](Calculate_Entropy_Entropy.py) 
