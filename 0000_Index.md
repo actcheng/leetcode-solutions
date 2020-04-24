@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 339 / 1411
+### Problems solved: 342/1421
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -146,6 +146,8 @@
 
 [136. Single Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0136_Single_Number.py) 
 
+[146. LRU Cache](0146_LRU_Cache.py) 
+
 [150. Evaluate Reverse Polish Notation](Explore/Queue%20&%20Stack/Stack/0150_Evaluate_Reverse_Polish_Notation.py) 
 
 [151. Reverse Words in a String](Explore/Array%20and%20String/Conclusion/0151_Reverse_Words_in_a_String.py) 
@@ -187,6 +189,8 @@
 [198. House Robber](0198_House_Robber.py) 
 
 [200. Number of Islands](Explore/Queue%20&%20Stack/Queue%20and%20BFS/0200_Number_of_Islands.py) 
+
+[201. Bitwise AND of Numbers Range](0201_Bitwise_AND_of_Numbers_Range.py) 
 
 [202. Happy Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0202_Happy_Number.py) 
 
