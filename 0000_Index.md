@@ -617,6 +617,7 @@
 
 ### 30-Day leetcoding challenge
 [Perform String Shifts](Perform_String_Shifts.py) 
+[First Unique Number](First_Unique_Number.py) 
 
 ### Decision Tree
 
