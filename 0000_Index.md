@@ -618,6 +618,8 @@
 ### 30-Day leetcoding challenge
 [Perform String Shifts](Perform_String_Shifts.py) 
 [First Unique Number](First_Unique_Number.py) 
+[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](Check_If_a_String_Is_a_Valid_Sequence_from_Root_to_Leaves_Path_in_a_Binary_Tree.py) 
+
 
 ### Decision Tree
 
