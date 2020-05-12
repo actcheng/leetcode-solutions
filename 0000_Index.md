@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 342/1421
+### Problems solved: 346/1444
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -375,7 +375,9 @@
 
 [538. Convert BST to Greater Tree](Explore/Binary%20Search%20Tree/Other%20exercises/0538_Convert_BST_to_Greater_Tree.py) 
 
-[539. Minimum Time Difference](0539_Minimum_Time_Difference.py) 
+[539. Minimum Time Difference](0539_Minimum_Time_Difference.py)
+
+[540. Single Element in a Sorted Array](0540_Single_Element_in_a_Sorted_Array.py) 
 
 [541. Reverse String II](0541_Reverse_String_II.py) 
 
