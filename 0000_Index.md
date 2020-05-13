@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 346/1444
+### Problems solved: 347/1444
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -306,6 +306,8 @@
 [394. Decode String](Explore/Queue%20&%20Stack/Conclusions/0394_Decode_String.py) 
 
 [401. Binary Watch](0401_Binary_Watch.py) 
+
+[402. Remove K Digits](0402_Remove_K_Digits.py) 
 
 [404. Sum of Left Leaves](0404_Sum_of_Left_Leaves.py) 
 
