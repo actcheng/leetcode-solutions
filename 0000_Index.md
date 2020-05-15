@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 347/1444
+### Problems solved: 348/1444
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -526,6 +526,8 @@
 [877. Stone Game](0877_Stone_Game.py) 
 
 [890. Find and Replace Pattern](0890_Find_and_Replace_Pattern.py) 
+
+[918. Maximum Sum Circular Subarray](0918_Maximum_Sum_Circular_Subarray.py) 
 
 [919. Complete Binary Tree Inserter](0919_Complete_Binary_Tree_Inserter.py) 
 
