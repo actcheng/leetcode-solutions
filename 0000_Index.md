@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 348/1444
+### Problems solved: 349/1444
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -264,6 +264,8 @@
 [303. Range Sum Query - Immutable](0303_Range_Sum_Query_-_Immutable.py) 
 
 [326. Power of Three](0326_Power_of_Three.py) 
+
+[328. Odd Even Linked List](0328_Odd_Even_Linked_List.py) 
 
 [338. Counting Bits](0338_Counting_Bits.py) 
 
