@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 349/1444
+### Problems solved: 350/1444
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -330,6 +330,8 @@
 [434. Number of Segments in a String](0434_Number_of_Segments_in_a_String.py) 
 
 [437. Path Sum III](0437_Path_Sum_III.py) 
+
+[438. Find All Anagrams in a String](0438_Find_All_Anagrams_in_a_String.py) 
 
 [441. Arranging Coins](0441_Arranging_Coins.py) 
 
