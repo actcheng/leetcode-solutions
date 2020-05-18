@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 350/1444
+### Problems solved: 351/1453
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -402,6 +402,8 @@
 [563. Binary Tree Tilt](Explore/Binary%20Tree/Other%20exercises/0563_Binary_Tree_Tilt.py) 
 
 [566. Reshape the Matrix](0566_Reshape_the_Matrix.py)
+
+[567. Permutation in String](0567_Permutation_in_String.py) 
 
 [575. Distribute Candies](0575_Distribute_Candies.py) 
 
