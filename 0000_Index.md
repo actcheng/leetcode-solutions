@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 352/1453
+### Problems solved: 359/1454
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -566,6 +566,8 @@
 [976. Largest Perimeter Triangle](0976_Largest_Perimeter_Triangle.py) 
 
 [984. String Without AAA or BBB](984_String_Without_AAA_or_BBB.py)
+
+[986. Interval List Intersections](0986_Interval_List_Intersections.py) 
 
 [989. Add to Array-Form of Integer](0989_Add_to_Array-Form_of_Integer.py) 
 
