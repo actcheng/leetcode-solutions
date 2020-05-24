@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 359/1454
+### Problems solved: 360/1454
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -572,6 +572,8 @@
 [989. Add to Array-Form of Integer](0989_Add_to_Array-Form_of_Integer.py) 
 
 [997. Find the Town Judge](0997_Find_the_Town_Judge.py) 
+
+[1008. Construct Binary Search Tree from Preorder Traversal](1008_Construct_Binary_Search_Tree_from_Preorder_Traversal.py) 
 
 [1013. Partition Array Into Three Parts With Equal Sum](1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py) 
 
