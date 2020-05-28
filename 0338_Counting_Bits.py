@@ -23,3 +23,24 @@ class Solution:
             i += 1
             j += 1
         return ans
+
+# 88 ms
+# 2020/05/28
+
+class Solution:
+    def countBits(self, num: int) -> List[int]:
+        res = [0]
+        ind = 0
+        l = 1
+
+        for i in range(1,num+1):
+            
+            if ind < l:
+                res.append(1+res[ind])                
+            else:
+                ind = 0
+                l = len(res)
+                res.append(1)
+            ind += 1
+                
+        return res
