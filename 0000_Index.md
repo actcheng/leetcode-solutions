@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 360/1454
+### Problems solved: 363/1459
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -201,6 +201,8 @@
 [205. Isomorphic Strings](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0205_Isomorphic_Strings.py) 
 
 [206. Reverse Linked List](Explore/Recursion%20I/Recursion%20Relation/0206_Reverse_Linked_List.py) 
+
+[207. Course Schedule](0207_Course_Schedule.py) 
 
 [208. Implement Trie (Prefix Tree)](Explore/Trie/Basic%20Operations/0208_Implement_Trie_(Prefix_Tree).py) 
 
