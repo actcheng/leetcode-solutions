@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 363/1459
+### Problems solved: 364/1459
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -564,6 +564,8 @@
 [961. N-Repeated Element in Size 2N Array](0961_N-Repeated_Element_in_Size_2N_Array.py) 
 
 [965. Univalued Binary Tree](0965_Univalued_Binary_Tree.py) 
+
+[973. K Closest Points to Origin](0973_K_Closest_Points_to_Origin.py) 
 
 [976. Largest Perimeter Triangle](0976_Largest_Perimeter_Triangle.py) 
 
