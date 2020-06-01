@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 364/1459
+### Problems solved: 366/1467
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -464,6 +464,8 @@
 [680. Valid Palindrome II](0680_Valid_Palindrome_II.py) 
 
 [682. Baseball Game](0682_Baseball_Game.py) 
+
+[684. Redundant Connection](0684_Redundant_Connection.py) 
 
 [686. Repeated String Match](0686_Repeated_String_Match.py) 
 
