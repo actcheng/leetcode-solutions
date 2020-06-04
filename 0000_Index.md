@@ -593,6 +593,8 @@
 
 [1022. Sum of Root To Leaf Binary Numbers](1022_Sum_of_Root_To_Leaf_Binary_Numbers.py) 
 
+[1029. Two City Scheduling](1029_Two_City_Scheduling.py) 
+
 [1030. Matrix Cells in Distance Order](1030_Matrix_Cells_in_Distance_Order.py) 
 
 [1051. Height Checker](1051_Height_Checker.py) 
