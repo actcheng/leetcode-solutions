@@ -9,3 +9,10 @@ class Solution:
             two = two << 1
         
         return n == two
+
+# 2020/06/08    
+# 28 ms (85%)
+
+class Solution:
+    def isPowerOfTwo(self, n: int) -> bool:
+        return '1' not in bin(n).split('b')[-1][1:] if n > 0 else False
