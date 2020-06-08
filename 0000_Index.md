@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 366/1467
+### Problems solved: 370/1473
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -317,6 +317,8 @@
 
 [405. Convert a Number to Hexadecimal](0405_Convert_a_Number_to_Hexadecimal.py) 
 
+[406. Queue Reconstruction by Height](0406_Queue_Reconstruction_by_Height.py) 
+
 [409. Longest Palindrome](0409_Longest_Palindrome.py)
 
 [412. Fizz Buzz](0412_Fizz_Buzz.py) 
@@ -375,11 +377,15 @@
 
 [513. Find Bottom Left Tree Value](0513_Find_Bottom_Left_Tree_Value.py) 
 
+[518. Coin Change 2](0518_Coin_Change_2.py) 
+
 [520. Detect Capital](0520_Detect_Capital.py) 
 
 [524. Longest Word in Dictionary through Deleting](0524_Longest_Word_in_Dictionary_through_Deleting.py) 
 
 [525. Contiguous Array](0525_Contiguous_Array.py) 
+
+[528. Random Pick with Weight](0528_Random_Pick_with_Weight.py) 
 
 [537. Complex Number Multiplication](0537_Complex_Number_Multiplication.py) 
 
