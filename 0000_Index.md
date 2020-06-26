@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 370/1473
+### Problems solved: 380/1490
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -80,6 +80,8 @@
 
 [58. Length of Last Word](0058_Length_of_Last_Word.py) 
 
+[60. Permutation Sequence](0060_Permutation_Sequence.py) 
+
 [62. Unique Paths](0062_Unique_Paths.py) 
 
 [64. Minimum Path Sum](0064_Minimum_Path_Sum.py) 
@@ -94,11 +96,15 @@
 
 [74. Search a 2D Matrix](0074_Search_a_2D_Matrix.py) 
 
+[75. Sort Colors](0075_Sort_Colors.py) 
+
 [79. Word Search](0079_Word_Search.py) 
 
 [88. Merge Sorted Array](0088_Merge_Sorted_Array.py) 
 
-[83. Remove Duplicates from Sorted List](0083_Remove_Duplicates_from_Sorted_List) 
+[83. Remove Duplicates from Sorted List](0083_Remove_Duplicates_from_Sorted_List)
+
+[96. Unique Binary Search Trees](0096_Unique_Binary_Search_Trees.py) 
 
 [98. Validate Binary Search Tree](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0098_Validate_Binary_Search_Tree.py) 
 
@@ -142,9 +148,13 @@
 
 [129. Sum Root to Leaf Numbers](0129_Sum_Root_to_Leaf_Numbers.py) 
 
+[130. Surrounded Regions](0130_Surrounded_Regions.py) 
+
 [133. Clone Graph](Explore/Queue%20&%20Stack/Stack%20and%20DFS/0133_Clone_Graph.py) 
 
 [136. Single Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0136_Single_Number.py) 
+
+[137. Single Number II](0137_Single_Number_II.py) 
 
 [146. LRU Cache](0146_LRU_Cache.py) 
 
@@ -251,11 +261,15 @@
 
 [273. Integer to English Words](0273_Integer_to_English_Words.py) 
 
+[275. H-Index II](0275_H-Index_II.py) 
+
 [278. First Bad Version](Explore/Binary%20Search/Template%20II/0278_First_Bad_Version.py) 
 
 [279. Perfect Squares](0279_Perfect_Squares.py) 
 
 [283. Move Zeroes](Explore/Array%20and%20String/Conclusion/0283_Move_Zeroes.py)
+
+[287. Find the Duplicate Number](0287_Find_the_Duplicate_Number.py)
 
 [290. Word Pattern](0290_Word_Pattern.py) 
 
@@ -286,6 +300,8 @@
 [350. Intersection of Two Arrays II](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0350_Intersection_of_Two_Arrays_II.py) 
 
 [367. Valid Perfect Square](Explore/Binary%20Search/Conclusion/0367_Valid_Perfect_Square.py) 
+
+[368. Largest Divisible Subset](0368_Largest_Divisible_Subset.py) 
 
 [374. Guess Number Higher or Lower](Explore/Binary%20Search/Template%20I/0374_Guess_Number_Higher_or_Lower.py) 
 
@@ -514,6 +530,8 @@
 [783. Minimum Distance Between BST Nodes](0783_Minimum_Distance_Between_BST_Nodes.py) 
 
 [784. Letter Case Permutation](0784_Letter_Case_Permutation.py) 
+
+[787. Cheapest Flights Within K Stops](0787_Cheapest_Flights_Within_K_Stops.py)
 
 [791. Custom Sort String](0791_Custom_Sort_String.py)
 
