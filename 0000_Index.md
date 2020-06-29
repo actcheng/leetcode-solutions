@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 380/1490
+### Problems solved: 381/1490
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -278,6 +278,8 @@
 [297. Serialize and Deserialize Binary Tree](Explore/Binary%20Tree/Conclusions/0297_Serialize_and_Deserialize_Binary_Tree.py) 
 
 [303. Range Sum Query - Immutable](0303_Range_Sum_Query_-_Immutable.py) 
+
+[332. Reconstruct Itinerary](0332_Reconstruct_Itinerary.py) 
 
 [326. Power of Three](0326_Power_of_Three.py) 
 
