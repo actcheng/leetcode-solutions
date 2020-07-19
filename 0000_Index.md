@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 381/1490
+### Problems solved: 388/1521
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -97,6 +97,8 @@
 [74. Search a 2D Matrix](0074_Search_a_2D_Matrix.py) 
 
 [75. Sort Colors](0075_Sort_Colors.py) 
+
+[78. Subsets](0078_Subsets.py) 
 
 [79. Word Search](0079_Word_Search.py) 
 
@@ -218,6 +220,8 @@
 
 [209. Minimum Size Subarray Sum](Explore/Array%20and%20String/Two-Pointer%20Technique/0209_Minimum_Size_Subarray_Sum.py) 
 
+[210. Course Schedule II](0210_Course_Schedule_II.py) 
+
 [211. Add and Search Word - Data structure design](Explore/Trie/Practical%20Applications%20I/0211_Add_and_Search_Word_-_Data_structure_design.py) 
 
 [215. Kth Largest Element in an Array](0215_Kth_Largest_Element_in_an_Array.py) 
@@ -256,6 +260,8 @@
 [258. Add Digits](0258_Add_Digits.py) 
 
 [263. Ugly Number](0263_Ugly_Number.py) 
+
+[264. Ugly Number II](0264_Ugly_Number_II.py) 
 
 [268. Missing Number](0268_Missing_Number.py) 
 
@@ -348,6 +354,8 @@
 [415. Add Strings](0415_Add_Strings.py) 
 
 [429. N-ary Tree Level Order Traversal](Explore/N-ary%20Tree/Traversal/0429_N-ary_Tree_Level_Order_Traversal.py) 
+
+[430. Flatten a Multilevel Doubly Linked List](0430_Flatten_a_Multilevel_Doubly_Linked_List.py) 
 
 [434. Number of Segments in a String](0434_Number_of_Segments_in_a_String.py) 
 
@@ -479,6 +487,8 @@
 
 [661. Image Smoother](0661_Image_Smoother.py) 
 
+[662. Maximum Width of Binary Tree](0662_Maximum_Width_of_Binary_Tree.py) 
+
 [665. Non-decreasing Array](0665_Non-decreasing_Array.py) 
 
 [674. Longest Continuous Increasing Subsequence](0674_Longest_Continuous_Increasing_Subsequence.py) 
@@ -589,6 +599,8 @@
 
 [953. Verifying an Alien Dictionary](0953_Verifying_an_Alien_Dictionary.py) 
 
+[957. Prison Cells After N Days](0957_Prison_Cells_After_N_Days.py) 
+
 [958. Check Completeness of a Binary Tree](Explore/Binary%20Tree/Other%20exercises/0958_Check_Completeness_of_a_Binary_Tree.py) 
 
 [961. N-Repeated Element in Size 2N Array](0961_N-Repeated_Element_in_Size_2N_Array.py) 
@@ -668,6 +680,8 @@
 [1309. Decrypt String from Alphabet to Integer Mapping](1309_Decrypt_String_from_Alphabet_to_Integer_Mapping.py) 
 
 [1324. Print Words Vertically](1324_Print_Words_Vertically.py) 
+
+[1344. Angle Between Hands of a Clock](1344_Angle_Between_Hands_of_a_Clock.py) 
 
 ## Not in Problems
 
