@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 388/1521
+### Problems solved: 390/1521
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -258,6 +258,8 @@
 [257. Binary Tree Paths](0257_Binary_Tree_Paths.py) 
 
 [258. Add Digits](0258_Add_Digits.py) 
+
+[260. Single Number III](0260_Single_Number_III.py) 
 
 [263. Ugly Number](0263_Ugly_Number.py) 
 
@@ -548,6 +550,8 @@
 [791. Custom Sort String](0791_Custom_Sort_String.py)
 
 [796. Rotate String](796_Rotate_String.py)
+
+[797. All Paths From Source to Target](0797_All_Paths_From_Source_to_Target.py) 
 
 [806. Number of Lines To Write String](0806_Number_of_Lines_To_Write_String.py) 
 
