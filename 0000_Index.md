@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 390/1521
+### Problems solved: 394/1533
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -106,6 +106,8 @@
 
 [83. Remove Duplicates from Sorted List](0083_Remove_Duplicates_from_Sorted_List)
 
+[95. Unique Binary Search Trees II](0095_Unique_Binary_Search_Trees_II.py) 
+
 [96. Unique Binary Search Trees](0096_Unique_Binary_Search_Trees.py) 
 
 [98. Validate Binary Search Tree](Explore/Binary%20Search%20Tree/Introduction%20to%20BST/0098_Validate_Binary_Search_Tree.py) 
@@ -167,6 +169,8 @@
 [152. Maximum Product Subarray](0152_Maximum_Product_Subarray.py) 
 
 [153. Find Minimum in Rotated Sorted Array](Explore/Binary%20Search/Template%20II/0153_Find_Minimum_in_Rotated_Sorted_Array.py)
+
+[154. Find Minimum in Rotated Sorted Array II](0154_Find_Minimum_in_Rotated_Sorted_Array_II.py) 
 
 [155. Min Stack](Explore/Queue%20&%20Stack/Stack/0155_Min_Stack.py) 
 
@@ -286,6 +290,8 @@
 [297. Serialize and Deserialize Binary Tree](Explore/Binary%20Tree/Conclusions/0297_Serialize_and_Deserialize_Binary_Tree.py) 
 
 [303. Range Sum Query - Immutable](0303_Range_Sum_Query_-_Immutable.py) 
+
+[309. Best Time to Buy and Sell Stock with Cooldown](0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py) 
 
 [332. Reconstruct Itinerary](0332_Reconstruct_Itinerary.py) 
 
@@ -464,6 +470,8 @@
 [599. Minimum Index Sum of Two Lists](Explore/Hash%20Table/Practical%20Applications-Hash%20Map/0599_Minimum_Index_Sum_of_Two_Lists.py) 
 
 [609. Find Duplicate File in System](0609_Find_Duplicate_File_in_System.py) 
+
+[621. Task Scheduler](0621_Task_Scheduler.py) 
 
 [623. Add One Row to Tree](0623_Add_One_Row_to_Tree.py) 
 
