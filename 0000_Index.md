@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 394/1533
+### Problems solved: 396/1533
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -159,6 +159,10 @@
 [136. Single Number](Explore/Hash%20Table/Practical%20Applications-Hash%20Set/0136_Single_Number.py) 
 
 [137. Single Number II](0137_Single_Number_II.py) 
+
+[139. Word Break](0139_Word_Break.py) 
+
+[140. Word Break II](0140_Word_Break_II.py) 
 
 [146. LRU Cache](0146_LRU_Cache.py) 
 
