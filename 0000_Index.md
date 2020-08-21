@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 396/1533
+### Problems solved: 405/1555
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -104,6 +104,8 @@
 
 [88. Merge Sorted Array](0088_Merge_Sorted_Array.py) 
 
+[82. Remove Duplicates from Sorted List II](0082_Remove_Duplicates_from_Sorted_List_II.py) 
+
 [83. Remove Duplicates from Sorted List](0083_Remove_Duplicates_from_Sorted_List)
 
 [95. Unique Binary Search Trees II](0095_Unique_Binary_Search_Trees_II.py) 
@@ -163,6 +165,8 @@
 [139. Word Break](0139_Word_Break.py) 
 
 [140. Word Break II](0140_Word_Break_II.py) 
+
+[143. Reorder List](0143_Reorder_List.py) 
 
 [146. LRU Cache](0146_LRU_Cache.py) 
 
@@ -277,6 +281,8 @@
 
 [273. Integer to English Words](0273_Integer_to_English_Words.py) 
 
+[274. H-Index](0274_H-Index.py) 
+
 [275. H-Index II](0275_H-Index_II.py) 
 
 [278. First Bad Version](Explore/Binary%20Search/Template%20II/0278_First_Bad_Version.py) 
@@ -370,6 +376,8 @@
 [430. Flatten a Multilevel Doubly Linked List](0430_Flatten_a_Multilevel_Doubly_Linked_List.py) 
 
 [434. Number of Segments in a String](0434_Number_of_Segments_in_a_String.py) 
+
+[435. Non-overlapping Intervals](0435_Non-overlapping_Intervals.py) 
 
 [437. Path Sum III](0437_Path_Sum_III.py) 
 
@@ -573,6 +581,8 @@
 
 [822. Card Flipping Game](0822_Card_Flipping_Game.py) 
 
+[824. Goat Latin](0824_Goat_Latin.py) 
+
 [832. Flipping an Image](0832_Flipping_an_Image.py) 
 
 [841. Keys and Rooms](Explore/Queue%20&%20Stack/Conclusions/0841_Keys_and_Rooms.py) 
@@ -623,6 +633,8 @@
 
 [965. Univalued Binary Tree](0965_Univalued_Binary_Tree.py) 
 
+[967. Numbers With Same Consecutive Differences](0967_Numbers_With_Same_Consecutive_Differences.py) 
+
 [973. K Closest Points to Origin](0973_K_Closest_Points_to_Origin.py) 
 
 [976. Largest Perimeter Triangle](0976_Largest_Perimeter_Triangle.py) 
@@ -631,9 +643,13 @@
 
 [986. Interval List Intersections](0986_Interval_List_Intersections.py) 
 
+[987. Vertical Order Traversal of a Binary Tree](0987_Vertical_Order_Traversal_of_a_Binary_Tree.py) 
+
 [989. Add to Array-Form of Integer](0989_Add_to_Array-Form_of_Integer.py) 
 
 [997. Find the Town Judge](0997_Find_the_Town_Judge.py) 
+
+[1103. Distribute Candies to People](1103_Distribute_Candies_to_People.py) 
 
 [1008. Construct Binary Search Tree from Preorder Traversal](1008_Construct_Binary_Search_Tree_from_Preorder_Traversal.py) 
 
@@ -692,6 +708,8 @@
 [1266. Minimum Time Visiting All Points](1266_Minimum_Time_Visiting_All_Points.py) 
 
 [1282. Group the People Given the Group Size They Belong To](1282_Group_the_People_Given_the_Group_Size_They_Belong_To.py) 
+
+[1286. Iterator for Combination](1286_Iterator_for_Combination.py) 
 
 [1309. Decrypt String from Alphabet to Integer Mapping](1309_Decrypt_String_from_Alphabet_to_Integer_Mapping.py) 
 
