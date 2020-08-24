@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 405/1555
+### Problems solved: 411/1563
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -411,6 +411,8 @@
 
 [494. Target Sum](Explore/Queue%20&%20Stack/Stack%20and%20DFS/0494_Target_Sum.py) 
 
+[497. Random Point in Non-overlapping Rectangles](0497_Random_Point_in_Non-overlapping_Rectangles.py) 
+
 [500. Keyboard Row](0500_Keyboard_Row.py) 
 
 [504. Base 7](0504_Base_7.py) 
@@ -685,6 +687,8 @@
 
 [1137. N-th Tribonacci Number](1137_N-th_Tribonacci_Number.py) 
 
+[1154. Day of the Year](1154_Day_of_the_Year.py) 
+
 [1161. Maximum Level Sum of a Binary Tree](1161_Maximum_Level_Sum_of_a_Binary_Tree.py) 
 
 [1170. Compare Strings by Frequency of the Smallest Character](1170_Compare_Strings_by_Frequency_of_the_Smallest_Character.py) 
@@ -716,6 +720,12 @@
 [1324. Print Words Vertically](1324_Print_Words_Vertically.py) 
 
 [1344. Angle Between Hands of a Clock](1344_Angle_Between_Hands_of_a_Clock.py) 
+
+[1380. Lucky Numbers in a Matrix](1380_Lucky_Numbers_in_a_Matrix.py) 
+
+[1389. Create Target Array in the Given Order](1389_Create_Target_Array_in_the_Given_Order.py) 
+
+[1539. Kth Missing Positive Number](1539_Kth_Missing_Positive_Number.py
 
 ## Not in Problems
 
