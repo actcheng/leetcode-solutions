@@ -1,6 +1,6 @@
 # Index
 
-### Problems solved: 411/1563
+### Problems solved: 417/1563
 
 [1. Two sum](0001_Two_sum.py) 
 
@@ -61,6 +61,8 @@
 [38. Count and Say](0038_Count_and_Say.py) 
 
 [39. Combination Sum](0039_Combination_Sum.py) 
+
+[43. Multiply Strings](0043_Multiply_Strings.py) 
 
 [46. Permutations](0046_Permutations.py) 
 
@@ -130,6 +132,8 @@
 
 [108. Convert Sorted Array to Binary Search Tree](Explore/Binary%20Search%20Tree/Height-balanced%20BST/0108_Convert_Sorted_Array_to_Binary_Search_Tree.py) 
 
+[109. Convert Sorted List to Binary Search Tree](0109_Convert_Sorted_List_to_Binary_Search_Tree.py) 
+
 [110. Balanced Binary Tree](Explore/Binary%20Search%20Tree/Height-balanced%20BST/0110_Balanced_Binary_Tree.py) 
 
 [111. Minimum Depth of Binary Tree](0111_Minimum_Depth_of_Binary_Tree.py) 
@@ -138,6 +142,8 @@
 
 [113. Path Sum II](0113_Path_Sum_II.py) 
 
+[114. Flatten Binary Tree to Linked List](0114_Flatten_Binary_Tree_to_Linked_List.py) 
+
 [116. Populating Next Right Pointers in Each Node](Explore/Binary%20Tree/Conclusions/0116_Populating_Next_Right_Pointers_in_Each_Node.py) 
 
 [117. Populating Next Right Pointers in Each Node II](Explore/Binary%20Tree/Conclusions/0117_Populating_Next_Right_Pointers_in_Each_Node_II.py) 
@@ -145,6 +151,8 @@
 [118. Pascal's Triangle](Explore/Array%20and%20String/Introduction%20to%202D%20Array/0118_Pascals_Triangle.py) 
 
 [119. Pascal's Triangle II](Explore/Array%20and%20String/Conclusion/0119_Pascals_Triangle_II.py) 
+
+[120. Triangle](0120_Triangle.py) 
 
 [121. Best Time to Buy and Sell Stock](0121_Best_Time_to_Buy_and_Sell_Stock.py) 
 
@@ -527,6 +535,8 @@
 
 [686. Repeated String Match](0686_Repeated_String_Match.py) 
 
+[687. Longest Univalue Path](0687_Longest_Univalue_Path.py) 
+
 [690. Employee Importance](0690_Employee_Importance.py) 
 
 [695. Max Area of Island](0695_Max_Area_of_Island.py) 
@@ -640,6 +650,8 @@
 [973. K Closest Points to Origin](0973_K_Closest_Points_to_Origin.py) 
 
 [976. Largest Perimeter Triangle](0976_Largest_Perimeter_Triangle.py) 
+
+[983. Minimum Cost For Tickets](0983_Minimum_Cost_For_Tickets.py) 
 
 [984. String Without AAA or BBB](984_String_Without_AAA_or_BBB.py)
 
